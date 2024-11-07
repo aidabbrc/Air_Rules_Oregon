@@ -8,12 +8,11 @@ openai.api_key = st.secrets["OPENAI_API_KEY"]
 # Function to test OpenAI API connection
 def test_openai_api():
     try:
-        response = openai.Completion.create(
-            model="text-davinci-003",
-            prompt="This is a test prompt.",
-            max_tokens=5
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[{"role": "user", "content": "This is a test prompt."}]
         )
-        return f"API test successful: {response.choices[0].text.strip()}"
+        return f"API test successful: {response['choices'][0]['message']['content'].strip()}"
     except Exception as e:
         return f"API test failed: {e}"
 
