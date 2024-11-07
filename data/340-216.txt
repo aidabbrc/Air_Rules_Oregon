@@ -1,0 +1,1211 @@
+Department of Environmental Quality
+Chapter 340
+Division 216
+AIR CONTAMINANT DISCHARGE PERMITS
+340-216-0010
+Purpose
+
+This division prescribes the requirements and procedures for obtaining Air Contaminant Discharge Permits (ACDPs) pursuant to ORS 468A.040 through 468A.060 and related statutes for sources of air contaminants.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040 & 468A.310
+Statutes/Other Implemented: ORS 468A.025, 468A.040 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1700
+DEQ 22-1995, f. & cert. ef. 10-6-95
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0140
+DEQ 4-1993, f. & cert. ef. 3-10-93, Renumbered from 340-020-0033
+DEQ 107, f. & cert. ef. 1-6-86
+DEQ 63, f. 12-20-73, cert. ef. 1-11-74
+DEQ 47, f. 8-31-72, cert. ef. 9-15-72
+
+340-216-0020
+Applicability and Jurisdiction
+
+(1) This division applies to all sources listed in OAR 340-216-8010. This division also applies to Oregon Title V Operating Permit program sources when an ACDP is required by 340-218-0020 or 340-224-0010. Sources referred to in 340-216-8010 are subject to fees in 340-216-8020.
+
+(2) Owners or operators of sources in any one of the categories in OAR 340-216-8010 must obtain a permit. Source categories are not listed in alphabetical order. If a source meets the requirements of more than one of the source categories and the source is not eligible for a Basic ACDP or a General ACDP that has been authorized by DEQ, then the owner or operator of the source must obtain a Simple or Standard ACDP. DEQ may determine that a source is ineligible for a Basic ACDP or a General ACDP based upon the considerations in OAR 340-216-0025(7).
+
+(a) Owners or operators of commercial and industrial sources listed in OAR 340-216-8010 Part A must obtain a Basic ACDP under 340-216-0056 unless the person chooses to obtain a General, Simple or Standard ACDP for the source. For purposes of Part A, production and emission parameters are based on the latest consecutive 12 month period, or future projected operation, whichever is higher. Part A eligibility cutoffs are based on actual production, throughput, or material usage of the source, as applicable.
+
+(b) Owners or operators of sources in any one of the categories in OAR 340-216-8010 Part B must obtain one of the following unless otherwise allowed in Part B:
+
+(A) A General ACDP, if one is available for the source classification and the source qualifies for a General ACDP under OAR 340-216-0060;
+
+(B) A Simple ACDP under OAR 340-216-0064; or
+
+(C) A Standard ACDP under OAR 340-216-0066 if the source fits one of the criteria of Part C or does not qualify for a Simple ACDP.
+
+(c) Owners or operators of sources in any one of the categories in OAR 340-216-8010 Part C must obtain a Standard ACDP under the procedures set forth in OAR 340-216-0066.
+
+(3) No person may construct, install, establish, develop or operate any air contaminant source listed in OAR 340-216-8010 without first obtaining an ACDP from DEQ or LRAPA and keeping a copy onsite at all times, unless otherwise deferred from the requirement to obtain an ACDP in subsection (3)(c) or DEQ has granted an exemption from the requirement to obtain an ACDP under subsection (3)(d). No person may continue to operate an air contaminant source if the ACDP expires, or is terminated, denied, or revoked; except as provided in OAR 340-216-0082.
+
+(a) The owner or operator must construct and operate their facility in accordance with the approved plans and specifications, including any corrections or revisions approved by DEQ, previously submitted in the application required under OAR 340-216-0040.
+
+(b) For portable sources, a permit may be issued or assigned by:
+
+(A) DEQ for operation in any area of the state except Lane County; or
+
+(B) LRAPA for operation in Lane County.
+
+(c) The owner or operator of a source required to obtain an ACDP or ACDP Attachment in order to comply with a NESHAP under OAR chapter 340, division 244 or a NSPS under OAR chapter 340, division 238, is not required to submit an application for an ACDP or ACDP Attachment until four months after the effective date of the EQC’s adoption of the NESHAP or NSPS, and is not required to obtain an ACDP or ACDP Attachment until six months after the EQC’s adoption of the NESHAP or NSPS. In addition, DEQ may defer the requirement to submit an application for, or to obtain an ACDP or ACDP Attachment, or both, for up to an additional twelve months, subject to paragraphs (A) and (B).
+
+(A) Deferrals of Oregon permitting requirements do not relieve an air contaminant source from the responsibility of complying with applicable federal NESHAP or NSPS requirements.
+
+(B) OAR 340-216-0060(1)(b)(A), 340-216-0062(2)(b)(A), 340-216-0064(4)(a), and 340-216-0066(3)(a), do not relieve a permittee from the responsibility of complying with federal NESHAP or NSPS requirements that apply to the source even if DEQ has not incorporated such requirements into the permit.
+
+(d) DEQ may exempt a source from the requirement to obtain an ACDP if it determines that the source is subject to only procedural requirements, such as notification that the source is affected by an NSPS or NESHAP.
+
+(4) No person may construct, install, establish, or develop any source that will be subject to the Oregon Title V Operating Permit program without first obtaining an ACDP, unless the source may be placed onsite and operated without any other construction necessary and obtains an Oregon Title V Operating Permit prior to operation.
+
+(5) The owner or operator of a source that has been issued an ACDP may not modify the source without first complying with the requirements of OAR 340-210-0205 through 340-210-0250.
+
+(6) The owner or operator of a source required to have an ACDP may not make modifications to the source that would result in the source becoming subject to the Oregon Title V Operating Permit program without complying with the requirements of OAR 340-210-0205 through 340-210-0250.
+
+(7) The owner or operator of a source required to have an ACDP may not increase emissions above the PSEL without first applying for and obtaining a modified ACDP.
+
+(8) The owner or operator of a source that has been issued an ACDP may not violate any conditions included in the ACDP.
+
+(9) Subject to the requirements in this division and OAR 340-200-0010(3), LRAPA is designated by the EQC to implement the rules in this division within its area of jurisdiction.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040 with the exception of all references to toxic air contaminants and OAR chapter 340, division 245.]
+
+[NOTE: Tables referenced are in OAR 340-216-8010 and 340-216-8020.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040, 468A.155 & 468A.310
+Statutes/Other Implemented: ORS 468A.025, 468A.040, 468A.135 - 468A.155 & 468A.310
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 197-2018, amend filed 11/16/2018, effective 11/16/2018
+DEQ 126-2018, minor correction filed 04/11/2018, effective 04/11/2018
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+DEQ 9-2013(Temp), f. & cert. ef. 10-24-13 thru 4-22-14
+DEQ 4-2013, f. & cert. ef. 3-27-13
+DEQ 14-2011, f, & cert. ef. 7-21-11
+DEQ 13-2011, f. & cert. ef. 7-21-11
+DEQ 11-2011, f. & cert. ef. 7-21-11
+DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11
+DEQ 1-2011, f. & cert. ef. 2-24-11
+DEQ 12-2010, f. & cert. ef. 10-27-10
+DEQ 10-2010(Temp), f. 8-31-10, cert. ef. 9-1-10 thru 2-28-11
+DEQ 9-2009(Temp), f. 12-24-09, cert. ef. 1-1-10 thru 6-30-10
+DEQ 8-2009, f. & cert. ef. 12-16-09
+DEQ 15-2008, f. & cert. ef 12-31-08
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 7-2007, f. & cert. ef. 10-18-07
+DEQ 4-2002, f. & cert. ef. 3-14-02
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1720
+DEQ 22-1996, f. & cert. ef. 10-22-96
+DEQ 19-1996, f. & cert. ef. 9-24-96
+DEQ 22-1995, f. & cert. ef. 10-6-95
+DEQ 22-1994, f. & cert. ef. 10-4-94
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0155
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 27-1991, f. & cert. ef. 11-29-91
+DEQ 12-1987, f. & cert. ef. 6-15-87
+DEQ 3-1986, f. & cert. ef. 2-12-86
+DEQ 11-1983, f. & cert. ef. 5-31-83
+DEQ 23-1980, f. & cert. ef. 9-26-80
+DEQ 20-1979, f. & cert. ef. 6-29-79
+DEQ 125, f. & cert. ef. 12-16-76
+DEQ 107, f. & cert. ef. 1-6-76, Renumbered from 340-020-0033
+DEQ 63, f. 12-20-73, cert. ef. 1-11-74
+DEQ 47, f. 8-31-72, cert. ef. 9-15-72
+
+340-216-0025
+Types of Permits
+
+(1) Construction ACDP:
+
+(a) A Construction ACDP may be used for approval of Type 3 changes specified in OAR 340-210-0225 at a source subject to the ACDP permit requirements in this division.
+
+(b) A Construction ACDP is required for Type 3 changes specified in OAR 340-210-0225 at sources subject to the Oregon Title V Operating Permit requirements.
+
+(2) General ACDP. A General ACDP is a permit for a category of sources for which individual permits are unnecessary in order to protect the environment, as determined by DEQ. An owner or operator of a source may be assigned to a General ACDP if DEQ has issued a General ACDP for the source category and:
+
+(a) The source meets the qualifications specified in the General ACDP;
+
+(b) DEQ determines that the source has not had ongoing, recurring, or serious compliance problems; and
+
+(c) DEQ determines that a General ACDP would appropriately regulate the source.
+
+(3) Short Term Activity ACDP. A Short Term Activity ACDP is a letter permit that authorizes the activity and includes any conditions placed upon the method or methods of operation of the activity. DEQ may issue a Short Term Activity ACDP for activities included in OAR 340-216-0054.
+
+(4) Basic ACDP. A Basic ACDP is a permit that authorizes the regulated source to operate in conformance with the rules contained in OAR chapter 340, divisions 200 to 272.
+
+(a) Owners and operators of sources and activities listed in Part A of OAR 340-216-8010 must at a minimum obtain a Basic ACDP.
+
+(b) Any owner or operator of a source required to obtain a Basic ACDP may choose to obtain either a Simple or Standard ACDP.
+
+(5) Simple ACDP.
+
+(a) Owners and operators of sources and activities listed in OAR 340-216-8010 Part B that do not qualify for a General ACDP and are not required to obtain a Standard ACDP must, at a minimum, obtain a Simple ACDP. The owner or operator of a source required to obtain a Simple ACDP may choose to obtain a Standard ACDP.
+
+(b) A Simple ACDP is a permit that contains:
+
+(A) All relevant applicable requirements for source operation, including general ACDP conditions for incorporating generally applicable requirements;
+
+(B) PSELs at less than the SER for all regulated pollutants emitted at more than the de minimis emission level according to OAR chapter 340, division 222; and
+
+(C) Testing, monitoring, recordkeeping, and reporting requirements sufficient to determine compliance with the PSEL and other emission limits and standards, as necessary.
+
+(6) Standard ACDP:
+
+(a) Applicability.
+
+(A) The owner or operator of a source listed in Part C of OAR 340-216-8010 must obtain a Standard ACDP;
+
+(B) The owner or operator of a source listed in Part B of OAR 340-216-8010 that does not qualify for a General ACDP or Simple ACDP must obtain a Standard ACDP;
+
+(C) The owner or operator of a source not required to obtain a Standard ACDP may choose to apply for a Standard ACDP.
+
+(b) A Standard ACDP is a permit that contains:
+
+(A) All applicable requirements, including general ACDP conditions for incorporating generally applicable requirements;
+
+(B) PSELs for all regulated pollutants emitted at more than the de minimis emission level according to OAR chapter 340, division 222; and
+
+(C) Testing, monitoring, recordkeeping, and reporting requirements sufficient to determine compliance with the PSEL and other emission limits and standards, as necessary.
+
+(7)(a) Notwithstanding the other provisions of this division that establish the eligibility of a source for different types of ACDPs, DEQ may determine, pursuant to the standards described in subsection (b), that the owner or operator of a source is ineligible for certain types of ACDP and must be issued a different type of ACDP;
+
+(b) DEQ will make a determination about which type of ACDP that the owner or operator of source must obtain based upon the following considerations:
+
+(A) The nature, extent, toxicity and impact on human health and the environment of the source's emissions;
+
+(B) The complexity of the source and the rules applicable to that source;
+
+(C) The complexity of the emission controls, potential threat to human health and the environment if the emission controls fail, and the source’s capacity;
+
+(D) The location of the source and its proximity to places where people live and work; and
+
+(E) The compliance history of the source, including by the source’s:
+
+(i) Current corporate officers, managers, members of the board of directors, general partners or similar persons, provided that the person exercises or will exercise substantial control on behalf of or over the facility that is the subject of the application or permit;
+
+(ii) Parent corporations, or similar business entities, that exercise substantial control over the facility that is the subject of the application or permit; and
+
+(iii) Subsidiary corporations, or similar business entities, over which the applicant or permittee exercises substantial control.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-211-0040.]
+
+[NOTE: All tables are found in OAR 340-216-8010, -8020, -8030.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040 & 468A.310
+Statutes/Other Implemented: ORS 468A.025, 468A.040 & 468A.310
+History:
+DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11
+DEQ 4-2002, f. & cert. ef. 3-14-02
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1720
+DEQ 22-1996, f. & cert. ef. 10-22-96
+DEQ 19-1996, f. & cert. ef. 9-24-96
+DEQ 22-1995, f. & cert. ef. 10-6-95
+DEQ 22-1994, f. & cert. ef. 10-4-94
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0155
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 27-1991, f. & cert. ef. 11-29-91
+DEQ 12-1987, f. & ef. 6-15-87
+DEQ 3-1986, f. & ef. 2-12-86
+DEQ 11-1983, f. & ef. 5-31-83
+DEQ 13-1981, f. 5-6-81, ef. 7-1-81
+DEQ 23-1980, f. & ef. 9-26-80
+DEQ 20-1979, f. & ef. 6-29-79
+DEQ 125, f. & ef. 12-16-76
+DEQ 107, f. & ef. 1-6-76, Renumbered from 340-020-0033
+DEQ 63, f. 12-20-73, ef. 1-11-74
+DEQ 47, f. 8-31-72, ef. 9-15-72
+
+340-216-0030
+Definitions
+
+The definitions in OAR 340-200-0020, 340-204-0010, 340-245-0020 and this rule apply to this division. If the same term is defined in this rule and 340-200-0020, 340-204-0010 or 340-245-0020, the definition in this rule applies to this division.
+
+(1) “Basic technical modification” includes, but is not limited to changing source test dates if the equipment is not being operated, and similar changes.
+
+(2) “Complex technical modification” includes, but is not limited to incorporating a complex new compliance method into a permit, adding a complex compliance method or monitoring for an emission point or control device not previously addressed in a permit, adding a complex new applicable requirement into a permit due to a change in process or change in rules, and similar changes.
+
+(3) “Moderate technical modification” includes, but is not limited to adding a simple compliance method or monitoring for an emission point or control device not previously addressed in a permit, revising monitoring and reporting requirements other than dates and frequency, adding a new applicable requirement into a permit due to a change in process or change in rules, incorporating NSPS and NESHAP requirements, and similar changes.
+
+(4) “Non-technical modification” means name changes, change of ownership, correction of typographical errors and similar administrative changes.
+
+(5) “Simple technical modification” includes, but is not limited to modifying a compliance method to use different emission factors or process parameters, changing reporting dates or frequency, and similar changes.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040 with the exception of all references to toxic air contaminants and OAR chapter 340, division 245.
+
+[ED. NOTE: To view attachments referenced in rule text, click here to view rule.]
+
+Statutory/Other Authority: ORS 468.020 & 468A
+Statutes/Other Implemented: ORS 468A.025, 468A.040 & 468A.310
+History:
+DEQ 201-2018, minor correction filed 12/11/2018, effective 12/11/2018
+DEQ 197-2018, amend filed 11/16/2018, effective 11/16/2018
+DEQ 127-2018, minor correction filed 04/11/2018, effective 04/11/2018
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99
+
+340-216-0040
+Application Requirements
+
+(1) New Permits.
+
+(a) Except for Short Term Activity ACDPs, any person required to obtain a new ACDP must provide a complete application with the following general information, as applicable, in addition to any other information required for a specific permit type. Complete applications must be submitted using electronic forms provided by DEQ, unless otherwise approved in writing by DEQ:
+
+(A) Identifying information, including the name of the company, the mailing address, the facility address, and the nature of business, Standard Industrial Classification (SIC) code;
+
+(B) The name and phone number of a local person responsible for compliance with the permit;
+
+(C) The name of a person authorized to receive requests for data and information;
+
+(D) A description of the production processes and related flow chart;
+
+(E) A plot plan showing the location and height of all emissions units, devices and activities that emit to the atmosphere, including any air pollution control devices, and the nearest residential and commercial properties;
+
+(F) Make, model, and identification name or number of each device, activity, and air pollution control device, if known;
+
+(G) Exhaust parameters (e.g., stack height, diameter, temperature, flowrate, volume or area source dimensions) of each emissions unit, device, and air pollution control device that emits to the atmosphere;
+
+(H) The type and quantity of fuels used;
+
+(I) An estimate of the amount and type of each air contaminant emitted by the source in terms of hourly, daily, or monthly and yearly rates, showing calculation procedures;
+
+(J) Any information on pollution prevention measures and cross-media impacts the applicant wants DEQ to consider in determining applicable control requirements and evaluating compliance methods;
+
+(K) Estimated efficiency of air pollution control devices under present or anticipated operating conditions;
+
+(L) Where the operation or maintenance of air pollution control devices and emission reduction processes can be adjusted or varied from the highest reasonable efficiency and effectiveness, information necessary for DEQ to establish operational and maintenance requirements in OAR 340-226-0120(1) and (2);
+
+(M) Land Use Compatibility Statement(s), when required by OAR chapter 340, division 018:
+
+(i) Signed by the applicable local planning jurisdiction(s), determining that construction or modification of the source is compatible with applicable local jurisdiction’s acknowledged comprehensive plan. If DEQ receives a LUCS which states that the proposed action is incompatible with the acknowledged comprehensive plan, DEQ shall notify the applicant that the application cannot be processed;
+
+(ii) If the local planning jurisdiction declines to provide a LUCS determination in response to a request for a LUCS, the owner or operator must provide DEQ with its own analysis to demonstrate that the proposed action complies with all applicable statewide planning goals;
+
+(N) The most recent information reported through EPA’s Toxics Release Inventory program at the time of application submittal, if the source is subject to the program;
+
+(O) An air quality analysis, conducted in accordance with the procedures in OAR chapter 340, division 225, demonstrating that the emissions, including reductions due to air pollution control devices or permitted limits on production capacity, will not cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202;
+
+(P) Any information required by OAR chapter 340, divisions 222, 224, 225, and 245, including but not limited to control technology and analysis and air quality analysis, conducted in accordance with the procedures in OAR chapter 340, division 225; and information related to offsets and net air quality benefit, if applicable;
+
+(Q) Anticipated date of the commencement of construction (i.e., breaking ground); and
+
+(R) Anticipated date of construction completion; and
+
+(S) Any other information requested by DEQ.
+
+(b) Owners or operators must submit complete applications for new permits in accordance with the timelines provided in subsection (2)(b), as well as OAR 340-245-0030, Cleaner Air Oregon submittal and payment deadlines, and OAR 340-224-0030, permit applications subject to New Source Review, to allow DEQ adequate time to process the application and issue a permit before it is needed.
+
+(2) Permit Renewals. Any person who wants to renew an existing permit must submit a complete application using forms provided by DEQ, unless otherwise allowed in writing by DEQ.
+
+(a) The renewal application must include:
+
+(A) All information identified in subsection (1)(a) that has changed since the last permit renewal or issuance;
+
+(B) A complete list of all devices and activities, or any combination of devices and activities, including all air pollution control devices, and all categorically insignificant activities;
+
+(C) An estimate of the amount and type of each air contaminant emitted by the source in terms of hourly, daily, or monthly and yearly rates, showing calculation procedures;
+
+(D) All changes to the source since the last permit issuance and all requirements applicable to those changes; and
+
+(E) When required by DEQ, an air quality analysis, conducted in accordance with the procedures in OAR chapter 340, division 225, demonstrating that the source’s emissions, including reductions due to air pollution control devices or permitted limits on production capacity, will not cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202.
+
+(b) The owner or operator must submit an application for renewal of the existing permit by no later than:
+
+(A) 30 days prior to the expiration date of a Basic ACDP;
+
+(B) 120 days prior to the expiration date of a Simple ACDP; or
+
+(C) 180 days prior to the expiration date of a Standard ACDP.
+
+(c) DEQ must receive an application for reassignment to General ACDPs and General ACDP attachments within 30 days prior to expiration of the General ACDPs or General ACDP attachments.
+
+(3) Permit Modifications.
+
+(a) An owner or operator applying for a modification of a Basic, Simple or Standard ACDP must provide the information in subsection (1)(a) relevant to the requested changes to the permit and a list of any requirements applicable to those changes.
+
+(b) DEQ recommends that applicants for permit modifications consider the timelines provided in subsection (2)(b), as well as OAR 340-245-0030, Cleaner Air Oregon submittal and payment deadlines, and OAR 340-224-0030, permit applications subject to New Source Review, to allow DEQ adequate time to process the application and issue a permit before it is needed.
+
+(c) When required by DEQ, the owner or operator must submit an air quality analysis demonstrating that the emissions, including reductions due to air pollution control devices or permitted limits on production capacity, will not cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202.
+
+(4) Any person who fails to submit any relevant facts or who has submitted incorrect information in a permit application must, upon becoming aware of such failure or incorrect submittal, promptly submit such supplementary facts or corrected information.
+
+(5) Permit applications must be completed in full and signed by the applicant or the applicant's legally authorized representative.
+
+(6) When a permit application is subject to Major NSR under OAR chapter 340, division 224, a copy of the permit application, including all supplemental and supporting information, must also be submitted directly to the EPA.
+
+(7) The name of the applicant on a permit application must be the legal name of the facility’s owner, the owner's agent or the lessee responsible for the operation and maintenance of the facility. The legal name must be registered with the Oregon Secretary of State Corporations Division, unless the applicant is an individual person that is operating the facility or applying for the permit, and is not doing so under an assumed business name.
+
+(8) All permit applications must include the appropriate fees as specified in OAR 340-216-8020 and OAR 340-216-8030.
+
+(9) Permit applications that are obviously incomplete, unsigned, improperly signed, or lacking the required exhibits or fees will be rejected by DEQ and returned to the applicant for completion.
+
+(10) Within 15 days after receiving the application, DEQ will preliminarily review the application to determine the adequacy of the information submitted, and:
+
+(a) If DEQ determines that additional information is needed, DEQ will promptly ask the applicant for the needed information and provide the applicant with a written request to provide such information by a date, not to exceed a 60-day period;
+
+(b) An applicant may request an extension of time from a deadline established in subsection (a) by providing DEQ with a written request 15 days prior to the submittal deadline. DEQ may grant an extension based on the following criteria:
+
+(A) The applicant has demonstrated progress in completing the submittal; and
+
+(B) A delay is necessary, for good cause shown by the applicant, related to obtaining more accurate or new data, performing additional analyses, or addressing changes in operations or other key parameters, any of which are likely to have a substantive impact on the outcomes of the submittal;
+
+(c) If DEQ determines it is not able to approve the applicant’s submittal, or if the applicant does not timely provide additional information or corrections requested by DEQ under subsection (a), then in addition to any other remedies available, DEQ may issue a proposed denial of the application under OAR 340-209-0080(6);
+
+(d) If DEQ has determined that additional information or corrections are necessary under subsection (a), and except as provided in subsection (c), DEQ will not consider the application to be complete for processing until DEQ has received the requested information; and
+
+(e) When DEQ has determined that the information in an application is adequate for processing, DEQ will so notify the applicant in writing.
+
+(11) If at any time while processing the permit application, DEQ determines that additional information is needed, DEQ will follow the procedures in section (10) to request such information.
+
+(12) If, upon review of an application, DEQ determines that a permit is not required, DEQ will so notify the applicant in writing. Such notification is a final action by DEQ on the application.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040 with the exception of all references to toxic air contaminants or OAR chapter 340, division 245.]
+
+[NOTE: Tables referenced are in OAR 340-216-8010 and 340-216-8020.]
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.025, 468A.040, 468A.310 & 468A.315
+Statutes/Other Implemented: ORS 468 & 468A
+History:
+DEQ 15-2023, minor correction filed 11/07/2023, effective 11/07/2023
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 197-2018, amend filed 11/16/2018, effective 11/16/2018
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11 DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01, Renumbered from 340-014-0020 & 340-014-0030
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1770
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0175
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 13-1988, f. & cert. ef. 6-17-88
+DEQ 20-1979, f. & cert. ef. 6-29-79
+DEQ 107, f. & cert. ef. 1-6-76, Renumbered from 340-020-0033
+DEQ 63, f. 12-20-73, cert. ef. 1-11-74
+DEQ 47, f. 8-31-72, cert. ef. 9-15-72
+DEQ 42, f. 4-5-72, cert. ef. 4-15-72
+
+340-216-0052
+Construction ACDP
+
+(1) Purpose. A Construction ACDP is a permit for approval of Type 3 construction or modification changes as specified in OAR 340-210-0225 and 340-210-0240. The Construction ACDP includes requirements for the construction or modification of stationary sources or air pollution control devices and does not by itself provide authorization to operate the new construction or modification. A new or modified Standard ACDP or Oregon Title V Operating Permit is required before operation of the new construction or modification. A Construction ACDP may be used for the following situations:
+
+(a) For complex construction or modification projects that require an extended period of time to construct, the Construction ACDP may provide construction approval faster than issuance of a Standard ACDP or modified Standard ACDP because the operating requirements would not need to be included in the permit.
+
+(b) For Oregon Title V Operating Permit sources, the Construction ACDP may include the requirements of OAR 340-218-0050 and follow the external review procedures in OAR 340-218-0210 and 340-218-0230 so that the requirements may later be incorporated into the Oregon Title V Operating Permit by an administrative amendment. If the applicant elects to incorporate the Construction ACDP by administrative amendment, all of the application submittal, permit content, and permit issuance requirements of OAR 340 division 218 must be met for the Construction ACDP.
+
+(2) Application requirements. Any person requesting a Construction ACDP must:
+
+(a) Submit an application according to OAR 340-216-0040 and provide the information specified in 340-216-0040(1) as it relates to the proposed new construction or modification; and
+
+(b) Provide a list of any applicable requirements related to the new construction or modification.
+
+(3) Fees. Applicants for a Construction ACDP must pay the fees in OAR 340-216-8020.
+
+(4) Permit content. A Construction ACDP must include at least the following:
+
+(a) A requirement that construction must commence within 18 months after the permit is issued if required by OAR 340-224-0030(4);
+
+(b) A requirement to construct according to approved plans;
+
+(c) A requirement to comply with all applicable requirements;
+
+(d) Emission limits for affected stationary sources;
+
+(e) Performance standards for affected stationary sources and air pollution control devices;
+
+(f) Performance test requirements;
+
+(g) Monitoring requirements, if specialized equipment is required (e.g., continuous monitoring systems);
+
+(h) Notification and reporting requirements (construction status reports, startup dates, source test plans, CEMS performance specification testing plans, etc.);
+
+(i) General ACDP conditions for incorporating generally applicable requirements;
+
+(j) A requirement to modify the operating permit before commencing operation of the new construction or modification;
+
+(k) A permit expiration date of no more than 5 years; and
+
+(l) Oregon Title V Permit requirements as specified in OAR 340-218-0050, if the applicant requests the external review procedures in 340-218-0210 and 340-218-0230.
+
+(5) Permit issuance procedures:
+
+(a) A Construction ACDP requires that DEQ provide public notice according to OAR 340 division 209 as a Category III permit action.
+
+(b) For sources subject to the Oregon Title V Operating Permit program, the applicant may ask for the external review procedures in OAR 340-218-0210 and 340-218-0230 in addition to the requirements of OAR 340 division 209 to allow the Construction ACDP to be incorporated into the Oregon Title V Operating Permit at a later date by an administrative amendment provided the requirements of subsection (1)(b) are met.
+
+(c) Issuance of a modified Construction ACDP requires the following public notice, as applicable:
+
+(A) Public notice as a Category I permit action under OAR 340 division 209 for non-technical modifications and basic and simple technical modifications; or
+
+(B) Public notice as a Category II permit action under OAR 340 division 209 for moderate and complex technical modifications.
+
+(6) Construction ACDPs may not be renewed.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040.]
+
+[NOTE: All tables are found in OAR 340-216-8010, -8020, -8030.]
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.025, 468A.040, 468A.310 & 468A.315
+Statutes/Other Implemented: ORS 468 & 468A
+History:
+DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+
+340-216-0054
+Short Term Activity ACDPs
+
+(1) Applicability. DEQ may issue a Short Term Activity ACDP for the following types of activities:
+
+(a) Activities that do not require a Title V permit under OAR chapter 340, division 218;
+
+(b) Unexpected or emergency activities; or
+
+(c) Operation of a pilot or an exploratory emissions unit.
+
+(2) Application requirements. Any person requesting a Short Term Activity ACDP must apply in writing, fully describing the proposed activities, operations, and emissions. The application must include the following:
+
+(a) Identifying information, including the name of the company, the mailing address, the facility address, and the nature of business, Standard Industrial Classification (SIC) code;
+
+(b) The name and phone number of a local person responsible for compliance with the permit;
+
+(c) The name of a person authorized to receive requests for data and information;
+
+(d) A description of the production processes and related flow chart;
+
+(e) Make, model, and identification name or number of each device, activity, and air pollution control device;
+
+(f) The type and quantity of fuels used;
+
+(g) An estimate of the amount and type of each air contaminant emitted by the source in terms of hourly, daily, or monthly rates, showing calculation procedures;
+
+(h) Land use approval;
+
+(i) Anticipated date of the commencement of construction (i.e., breaking ground);
+
+(j) Anticipated date of construction completion; and
+
+(k) When required by DEQ, an air quality analysis, conducted in accordance with the procedures in OAR chapter 340, division 225, demonstrating that the source’s emissions will not cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202.
+
+(3) Fees. Applicants for a Short Term Activity ACDP must pay the fees in OAR 340-216-8020.
+
+(4) Permit content:
+
+(a) A Short Term Activity ACDP must include conditions that ensure adequate protection of property and preservation of public health, welfare, and resources.
+
+(b) A Short Term Activity ACDP may not include a PSEL for any air contaminants discharged as a result of the permitted activity.
+
+(c) A Short Term Activity ACDP will automatically terminate 60 days from the date of issuance. The permittee may request that the Short Term Activity ACDP be renewed one time, for an additional 60-day period by notifying DEQ in writing at least 14 days before the expiration of the Short Term Activity ACDP. If DEQ approves the renewal, no additional permit fees are required.
+
+(5) If a Short Term Activity ACDP is issued to a permitted source, the permittee must include emissions from the short term activity when determining compliance with PSELs under OAR chapter 340, division 222 and Source Risk Limits under OAR chapter 340, division 245.
+
+(6) Permit issuance public notice procedures. A Short Term Activity ACDP requires public notice as a Category I permit action under OAR chapter 340, division 209.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.025, 468A.040, 468A.310 & 468A.315
+Statutes/Other Implemented: ORS 468 & 468A
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01, Renumbered from 340-014-0050
+DEQ 22-1996, f. & cert. ef. 10-22-96
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 42, f. 4-5-72, ef. 4-15-72
+
+340-216-0056
+Basic ACDPs
+
+(1) Application requirements. Any person requesting a Basic ACDP must submit an application according to OAR 340-216-0040 and provide the information specified in OAR 340-216-0040(1).
+
+(2) DEQ may determine that a source is ineligible for a Basic ACDP based upon the considerations in OAR 340-216-0025(7).
+
+(3) Fees. Applicants for a new Basic ACDP must pay the fees in OAR 340-216-8020.
+
+(4) Permit content:
+
+(a) A Basic ACDP will contain only the most significant and relevant rules applicable to the source;
+
+(b) A Basic ACDP may not contain a PSEL;
+
+(c) A Basic ACDP may contain any physical or operational limitation, including any combination of the use of control devices, restrictions on hours of operation, or restrictions on the type or amount of materials combusted, stored, or processed, as permit conditions to limit short term emissions for all devices and activities that require controls or limitations to ensure the source’s emission will not cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202;
+
+(d) A Basic ACDP will require that a simplified annual report be submitted to DEQ; and
+
+(e) A Basic ACDP may be issued for a period not to exceed ten years.
+
+(5) Permit issuance public notice procedures. A Basic ACDP requires public notice as a Category I permit action according to OAR chapter 340, division 209.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.025, 468A.040, 468A.310 & 468A.315
+Statutes/Other Implemented: ORS 468 & 468A
+History:
+DEQ 3-2023, minor correction filed 03/01/2023, effective 03/01/2023
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+
+340-216-0060
+General Air Contaminant Discharge Permits
+
+(1) Applicability.
+
+(a) DEQ may issue a General ACDP under the following circumstances:
+
+(A) There are multiple sources that involve the same or substantially similar types of operations;
+
+(B) All requirements applicable to the covered operations can be contained in a General ACDP;
+
+(C) The emission limitations, monitoring, recordkeeping, reporting and other enforceable conditions are the same for all operations covered by the General ACDP; and
+
+(D) The regulated pollutants emitted are of the same type for all covered operations.
+
+(E) DEQ may determine that a source is ineligible for a General ACDP based upon the considerations in OAR 340-216-0025(7).
+
+(b) Permit content. Each General ACDP must include the following:
+
+(A) All relevant requirements for the operations covered by the General ACDP, excluding any federal requirements not adopted by the EQC;
+
+(B) PSELs set at the potential to emit for the largest emitting source in the source category in the state for all regulated pollutants emitted at more than the de minimis emission level according to OAR chapter 340, division 222;
+
+(C) Testing, monitoring, recordkeeping, and reporting requirements necessary to ensure compliance with the PSEL and other applicable emissions limits and standards; and
+
+(D) A permit expiration date not to exceed 10 years from the date of issuance.
+
+(c) Permit issuance public notice procedures: A new General ACDP requires public notice as a Category III permit action according to OAR chapter 340, division 209. A reissued General ACDP or a modification to a General ACDP requires public notice as a Category II permit action according to OAR chapter 340, division 209.
+
+(d) DEQ will retain all General ACDPs on file and make them available for public review at DEQ's headquarters.
+
+(2) Petition for General ACDP Categories. Any person may file a petition with DEQ to add a category for a General ACDP. DEQ may use its discretion to determine whether to issue any such new General ACDP. The petition must include at least the following information:
+
+(a) Justification for why a new General ACDP category should be developed;
+
+(b) The approximate number of businesses that would be eligible for the General ACDP;
+
+(c) Criteria for qualification to the General ACDP; and
+
+(d) A list of the requirements applicable to the activities or sources that would be eligible for the new General ACDP.
+
+(3) Source assignment:
+
+(a) Application requirements. Any person requesting that a source be assigned to a General ACDP must submit a written application according to OAR 340-216-0040 that includes the information in 340-216-0040(1), specifies the General ACDP source category, and shows that the source qualifies for the General ACDP.
+
+(b) Fees. Applicants must pay the fees in OAR 340-216-8020. The fee class for each General ACDP is Fee Class One unless otherwise specified as follows:
+
+(A) Hard chrome platers — Fee Class Three;
+
+(B) Decorative chrome platers — Fee Class Two;
+
+(C) Halogenated solvent degreasers — batch cold, batch vapor, and in-line — Fee Class Two;
+
+(D) Perchloroethylene dry cleaners — Fee Class Six;
+
+(E) Asphalt plants — Fee Class Three;
+
+(F) Rock crushers — Fee Class Two;
+
+(G) Ready-mix concrete — Fee Class One;
+
+(H) Sawmills, planing mills, millwork, plywood manufacturing and veneer drying — Fee Class Three;
+
+(I) Boilers — Fee Class Two;
+
+(J) Crematories — Fee Class One;
+
+(K) Grain elevators — Fee Class One;
+
+(L) Prepared feeds, flour, and cereal — Fee Class One;
+
+(M) Seed cleaning — Fee Class One;
+
+(N) Coffee roasters — Fee Class One;
+
+(O) Bulk gasoline plants — Fee Class One;
+
+(P) Electric power generators — Fee Class Two;
+
+(Q) Clay ceramics — Fee Class One;
+
+(R) Hospital sterilizers — Fee Class Four;
+
+(S) Gasoline dispensing facilities — Fee Class Four;
+
+(T) Wood preserving — Fee Class Four;
+
+(U) Metal fabrication and finishing — with two or more of the following operations — Fee Class Two;
+
+(i) Dry abrasive blasting performed in a vented enclosure or of objects greater than 8 feet (2.4 meters) in any one dimension that uses materials that contain MFHAP or has the potential to emit MFHAP;
+
+(ii) Spray-applied painting operation using MFHAP containing paints;
+
+(iii) Welding operation that uses materials that contain MFHAP or has the potential to emit MFHAP and uses 2,000 pounds or more per year of MFHAP containing welding wire and rod (calculated on a rolling 12-month basis);
+
+(V) Metal fabrication and finishing — with only one of the operations listed in subparagraphs (2)(b)(W)(i) through (iii) — Fee Class One;
+
+(W) Metal fabrication and finishing — with none of the operations listed in subparagraphs (2)(b)(W)(i) through (iii) — Fee Class Four;
+
+(X) Plating and polishing — Fee Class One;
+
+(Y) Surface coating operations — Fee Class One;
+
+(Z) Paints and allied products manufacturing — Fee Class Two; and
+
+(AA) Emergency generators and firewater pumps, if a permit is required – Fee Class Two.
+
+(c) Source assignment procedures:
+
+(A) Assignment of a source to a General ACDP is a Category I permit action and is subject to the Category I public notice requirements according to OAR chapter 340, division 209.
+
+(B) A person is not a permittee under the General ACDP until DEQ assigns the General ACDP to the person.
+
+(C) Assignments to General ACDPs and attachments terminate when the General ACDP or attachment expires or is modified, terminated or revoked.
+
+(D) Once a source has been assigned to a General ACDP, if the assigned General ACDP does not cover all applicable requirements, excluding any federal requirements not adopted by the EQC, the other applicable requirements must be covered by assignment to one or more General ACDP Attachments according to OAR 340-216-0062, otherwise the owner or operator of the source must obtain a Simple or Standard ACDP.
+
+(E) An owner or operator of a source requesting to be assigned to a General ACDP Attachment, according to OAR 340-216-0062, for a source category in a higher annual fee class than the General ACDP to which the source is currently assigned, must be reassigned to the General ACDP for the source category in the higher annual fee class.
+
+(4) DEQ Initiated Modification. If DEQ determines that the conditions have changed such that a General ACDP for a category needs to be modified, DEQ may issue a modified General ACDP for that category and assign all existing General ACDP permit holders to the modified General ACDP.
+
+(5) Rescission. DEQ may rescind a permittee’s assignment to a General ACDP if the permittee’s source no longer meets the requirements or qualification conditions of the permit. In such case, the permittee must submit an application within 60 days for a Simple or Standard ACDP upon notification by DEQ of DEQ’s intent to rescind the General ACDP. Upon issuance of the Simple or Standard ACDP, or if the permittee fails to submit an application for a Simple or Standard ACDP, DEQ will rescind the permittee’s assignment to the General ACDP.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040.]
+
+[NOTE: All tables are found in OAR 340-216-8010, -8020, -8030.]
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.025, 468A.040, 468A.310 & 468A.315
+Statutes/Other Implemented: ORS 468 & 468A
+History:
+DEQ 4-2024, amend filed 03/25/2024, effective 03/25/2024
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019
+DEQ 128-2018, minor correction filed 04/11/2018, effective 04/11/2018
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+DEQ 4-2013, f. & cert. ef. 3-27-13
+DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11
+DEQ 1-2011, f. & cert. ef. 2-24-11
+DEQ 8-2009, f. & cert. ef. 12-16-09
+DEQ 15-2008, f. & cert. ef 12-31-08
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 2-2006, f. & cert. ef. 3-14-06
+DEQ 4-2002, f. & cert. ef. 3-14-02
+DEQ 10-2001, f. & cert. ef. 8-30-01
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1725
+DEQ 14-1998, f. & cert. ef. 9-14-98
+
+340-216-0062
+General ACDP Attachments
+
+(1) Purpose. This rule allows a source to be assigned to one General ACDP and one or more General ACDP Attachments, as long as the General ACDP and General ACDP Attachment contain all requirements applicable to the source. This would allow a source to avoid having to obtain a more costly Simple or Standard ACDP if there are no General ACDPs that contain all requirements applicable to the source.
+
+(2) Applicability.
+
+(a) DEQ may issue a General ACDP Attachment under the following circumstances:
+
+(A) There are multiple sources that involve the same or substantially similar types of operations;
+
+(B) All requirements applicable to the covered operations can be contained in a General ACDP Attachment;
+
+(C) The emission limitations, monitoring, recordkeeping, reporting and other enforceable conditions are the same for all operations covered by the General ACDP Attachment;
+
+(D) The regulated pollutants emitted are of the same type for all covered operations. If a General ACDP and a General ACDP Attachment cannot address all activities at a source, the owner or operator of the source must apply for a Simple or Standard ACDP according to this division.
+
+(b) Attachment content. Each General ACDP Attachment must include the following:
+
+(A) All relevant requirements for the operations covered by the General ACDP Attachment, excluding any federal requirements not adopted by the EQC;
+
+(B) Testing, monitoring, recordkeeping, and reporting requirements necessary to ensure compliance with the applicable emissions limits and standards; and
+
+(C) An attachment expiration date not to exceed 10 years from the date of issuance.
+
+(c) Attachment issuance public notice procedures: A General ACDP Attachment requires public notice as a Category II permit action according to OAR 340 division 209.
+
+(d) DEQ will retain all General ACDP Attachments on file and make them available for public review at DEQ's headquarters.
+
+(3) Source assignment:
+
+(a) Application requirements. Any person requesting to be assigned to a General ACDP Attachment must submit a written application for each requested General ACDP Attachment that specifies the requested General ACDP Attachment and shows that the source qualifies for the requested General ACDP Attachment.
+
+(b) Fees. Applicants must pay the fees in OAR 340-216-8020 for each assigned General ACDP Attachment. The fee class for each General ACDP Attachment is Fee Class Five.
+
+(c) Assignment procedures:
+
+(A) Assignment to a General ACDP Attachment is a Category I permit action and is subject to the Category I public notice requirements under OAR 340 division 209.
+
+(B) A person is not a permittee under the General ACDP Attachment until DEQ assigns the General ACDP Attachment to the person.
+
+(C) Assignment to a General ACDP Attachment terminates when the General ACDP Attachment expires or is modified, terminated or revoked.
+
+(D) A source may not be assigned to a General ACDP Attachment for a source category in a higher annual fee class than the General ACDP to which the source is currently assigned. Instead a source must be reassigned to the General ACDP for the source category in the higher annual fee class according to OAR 340-216-0060(2)(c)(E) and may be assigned to one or more General ACDP Attachments associated with source categories in an equal or lower annual fee class.
+
+(d) If all activities at a source cannot be addressed by a General ACDP and General ACDP Attachments, the owner or operator of the source must apply for a Simple or Standard ACDP according to this division.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.025, 468A.040, 468A.310 & 468A.315
+Statutes/Other Implemented: ORS 468 & 468A
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+Reverted to DEQ 4-2013, f. & cert. ef. 3-27-13
+DEQ 9-2013(Temp), f. & cert. ef. 10-24-13 thru 4-22-14
+DEQ 4-2013, f. & cert. ef. 3-27-13
+DEQ 8-2009, f. & cert. ef. 12-16-09
+
+340-216-0064
+Simple ACDP
+
+(1) Application Requirements. Any person requesting a new, modified, or renewed Simple ACDP must submit an application according to OAR 340-216-0040.
+
+(2) DEQ may determine that a source is ineligible for a Simple ACDP based upon the considerations in OAR 340-216-0025(7).
+
+(3) Fees. Applicants for a new or modified Simple ACDP must pay the fees in OAR 340-216-8020. Applicants for a new Simple ACDP must initially pay the High Annual Fee. Once the initial permit is issued, annual fees for Simple ACDPs will be assessed based on the following:
+
+(a) Low Fee — A source may qualify for the low fee if:
+
+(A) The source is, or will be, permitted under only one of the following categories in OAR 340-216-8010 Part B:
+
+(i) Category 7. Asphalt felt and coatings;
+
+(ii) Category 13. Boilers and other fuel burning equipment (can be combined with category 27. Electric power generation);
+
+(iii) Category 27. Electric power generation;
+
+(iv) Category 33. Galvanizing & pipe coating;
+
+(v) Category 39. Gray iron and steel foundries, malleable iron foundries, steel investment foundries, steel foundries 100 or more tons/yr. metal charged (not elsewhere identified);
+
+(vi) Category 40. Gypsum products;
+
+(vii) Category 45. Liquid storage tanks subject to OAR chapter 340, division 232;
+
+(viii) Category 56. Non-ferrous metal foundries 100 or more tons/year of metal charged;
+
+(ix) Category 57. Organic or inorganic industrial chemical manufacturing;
+
+(x) Category 62. Perchloroethylene dry cleaning;
+
+(xi) Category 73. Secondary smelting and/or refining of ferrous and non-ferrous metals; or
+
+(xii) Category 85. All other sources not listed in OAR 340-216-8010 (can be combined with category 27. Electric Power Generation); and
+
+(B) The actual emissions from the calendar year immediately preceding the invoice date are less than five tons/year of PM10 in a PM10 nonattainment or maintenance area or PM2.5 in a PM2.5 nonattainment or maintenance area, and less than 10 tons/year for each criteria pollutant; and
+
+(C) The source is not creating a nuisance under OAR 340-208-0310 or 340-208-0450.
+
+(b) High Fee — Any source required to have a Simple ACDP (OAR 340-216-8010 Part B) that does not qualify for the low fee under subsection (2)(a) will be assessed the high fee.
+
+(c) If DEQ determines that a source was invoiced for the low annual fee but does not meet the low fee criteria outlined above, the source will be required to pay the difference between the low and high fees, plus applicable late fees in OAR 340-216-8020 Part 5. In the case of late fees, DEQ will issue a new invoice specifying applicable fees.
+
+(4) Permit Content. Each Simple ACDP must include the following:
+
+(a) All relevant applicable requirements for source operation, including general ACDP conditions for incorporating generally applicable requirements, but excluding any federal requirements not adopted by the EQC;
+
+(b)  PSELs at less than the SER for all regulated pollutants emitted at more than the de minimis emission level under OAR chapter 340, division 222;
+
+(c) To ensure the source’s emission will not cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202:
+
+(A) Any physical or operational limitation, including any combination of the use of control devices, restrictions on hours of operation, or restrictions on the type or amount of materials combusted, stored, or processed, will be included as permit conditions to limit short term emissions for all devices and activities that require controls or limitations; or
+
+(B) A requirement to conduct ambient monitoring to confirm a new exceedance of a National Ambient Air Quality Standard. Ambient monitoring and meteorological monitoring must be conducted in accordance with a DEQ approved monitoring plan for a period of not less than 12 months. There must be at least 12 months of valid data with greater than 75 percent data completeness per quarter.
+
+(d) Testing, monitoring, recordkeeping, and reporting requirements sufficient to determine compliance with the PSEL and other emission limits and standards, as necessary; and
+
+(e) A permit duration not to exceed 10 years.
+
+(5) Permit issuance public notice procedures:
+
+(a) Issuance of a new or renewed Simple ACDP requires public notice as a Category III permit according to OAR chapter 340, division 209.
+
+(b) Issuance of a modification to a Simple ACDP requires one of the following procedures, as applicable:
+
+(A) Public notice as a Category I permit action for non-technical and basic and simple technical modifications according to OAR chapter 340, division 209; or
+
+(B) Public notice as a Category III permit action for moderate and complex technical modifications according to OAR chapter 340, division 209.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.025, 468A.040, 468A.310 & 468A.315
+Statutes/Other Implemented: ORS 468 & 468A
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+Reverted to DEQ 4-2013, f. & cert. ef. 3-27-13
+DEQ 9-2013(Temp), f. & cert. ef. 10-24-13 thru 4-22-14
+DEQ 4-2013, f. & cert. ef. 3-27-13
+DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11
+DEQ 1-2011, f. & cert. ef. 2-24-11
+DEQ 8-2009, f. & cert. ef. 12-16-09
+DEQ 4-2002, f. & cert. ef. 3-14-02
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+
+340-216-0066
+Standard ACDPs
+
+(1) Application requirements. Any person requesting a new, modified, or renewed Standard ACDP must submit an application according to OAR 340-216-0040 and include the following additional information as applicable:
+
+(a) New or modified Standard ACDPs that are not subject to Major NSR, but have emissions increases above the significant emissions rate are subject to the requirements of State NSR. The application must include an analysis of the air quality and, for federal major sources only, the visibility impacts of the source or modification, including meteorological and topographical data, specific details of models used, and other information necessary to estimate air quality impacts.
+
+(b) For new or modified Standard ACDPs that are subject to Major NSR, the application must include the following information as applicable:
+
+(A) A detailed description of the air pollution control devices and emission reductions processes that are planned for the major source or major modification, and any other information necessary to determine that BACT or LAER technology, whichever is applicable, would be applied;
+
+(B) An analysis of the air quality and, for federal major sources only, the visibility impacts of the major source or major modification, including meteorological and topographical data, specific details of models used, and other information necessary to estimate air quality impacts; and
+
+(C) An analysis of the air quality and, for federal major sources only, the visibility impacts, and the nature and extent of all commercial, residential, industrial, and other source emission growth, which has occurred since the baseline concentration year in the area the major source or major modification would affect.
+
+(2) Fees. Applicants for a Standard ACDP must pay the fees in OAR 340-216-8020.
+
+(3) Permit content. Each Standard ACDP must include the following:
+
+(a) All applicable requirements, including general ACDP conditions for incorporating generally applicable requirements, but excluding any federal requirements not adopted by the EQC;
+
+(b) PSELs for all regulated pollutants emitted at more than the de minimis emission level under OAR chapter 340, division 222;
+
+(c) To ensure the source’s emission will not cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202:
+
+(A) Any physical or operational limitation, including any combination of the use of control devices, restrictions on hours of operation, or restrictions on the type or amount of materials combusted, stored, or processed, will be included as permit conditions to limit short term emissions for all devices and activities that require controls or limitations; or
+
+(B) A requirement to conduct ambient monitoring to confirm a new exceedance of a National Ambient Air Quality Standard. Ambient monitoring and meteorological monitoring must be conducted in accordance with a DEQ approved monitoring plan for a period of not less than 12 months. There must be at least 12 months of valid data with greater than 75 percent data completeness per quarter.
+
+(d) Testing, monitoring, recordkeeping, and reporting requirements sufficient to determine compliance with the PSEL and other emission limits and standards, as necessary; and
+
+(e)(A) A permit duration not to exceed 5 years, for all permits except as allowed under paragraph (B); or
+
+(B) For a Standard ACDP that is issued solely to implement the requirements of OAR chapter 340, division 224 for New Source Review for a Title V source, there is no expiration date. This permit is only required to be modified if any of the New Source Review permit conditions must be modified. The owner or operator does not have to pay annual fees for this permit but must pay the applicable specific activity fees for any permit modification.
+
+(4) Permit issuance procedures.
+
+(a) Issuance of a new or renewed Standard ACDP requires public notice under OAR chapter 340, division 209 as follows:
+
+(A) Public notice as a Category III permit action for permit actions that will increase allowed emissions but that are not Major NSR or Type A State NSR permit actions under OAR chapter 340, division 224, or as a Category II permit action if the permit will not increase allowed emissions;
+
+(B) Public notice as a Category IV permit action for permit actions that are Major NSR or Type A State NSR permit actions under OAR chapter 340, division 224;
+
+(b) Issuance of a modified Standard ACDP requires public notice under OAR chapter 340, division 209 as follows:
+
+(A) Public notice as a Category I permit action for non-technical modifications and basic and simple technical modifications according to OAR chapter 340, division 209;
+
+(B) Public notice as a Category II permit action for moderate and complex technical modifications if there will be no increase in allowed emissions, or as a Category III permit action if there will be an increase in emissions; or
+
+(C) Public notice as a Category IV permit action for major modifications subject to Major NSR or Type A State NSR under OAR chapter 340, division 224.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.025, 468A.040, 468A.310 & 468A.315
+Statutes/Other Implemented: ORS 468 & 468A
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 129-2018, minor correction filed 04/11/2018, effective 04/11/2018
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+DEQ 4-2013, f. & cert. ef. 3-27-13
+DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11
+DEQ 4-2002, f. & cert. ef. 3-14-02
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+
+340-216-0068
+Simple and Standard ACDP Attachments
+
+(1) Purpose. This rule allows DEQ to add new requirements to existing Simple or Standard ACDPs by assigning the source to an ACDP Attachment issued under section (2). An ACDP Attachment would apply to an affected source until the new requirements are incorporated into the source’s Simple or Standard ACDP at the next permit renewal or at the time of permit modification.
+
+(2) ACDP Attachment issuance procedures:
+
+(a) An ACDP Attachment issuance requires public notice as a Category II permit action under OAR chapter 340, division 209.  Assigning ACDP Attachments to Simple or Standard ACDPs require notice as Category I permit actions.
+
+(b) DEQ may issue an ACDP Attachment when there are multiple sources that are subject to the new requirements.
+
+(c) Attachment content. Each ACDP Attachment must include the following:
+
+(A) Testing, monitoring, recordkeeping, and reporting requirements necessary to ensure compliance with the applicable emissions limits and standards; and
+
+(B) An attachment expiration date not to exceed 5 years from the date of issuance.
+
+(3) Assignment to ACDP Attachment:
+
+(a) A source is not a permittee under the ACDP Attachment until DEQ assigns the ACDP Attachment to the source.
+
+(b) The ACDP Attachment is removed from the Simple or Standards ACDP when the requirements of the ACDP Attachment are incorporated into the source’s Simple or Standard ACDP at the time of renewal or of a modification.
+
+(c) If an EPA or DEQ action causes a source to be subject to the requirements in an ACDP Attachment, assignment to the ACDP Attachment is a DEQ initiated modification to the Simple or Standard ACDP and the permittee is not required to submit an application or pay fees for the permit action. In such case, DEQ would notify the permittee of the proposed permitting action and the permittee may object to the permit action if the permittee demonstrates that the source is not subject to the requirements of the ACDP Attachment.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040 & 468A.310
+Statutes/Other Implemented: ORS 468A
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 4-2013, f. & cert. ef. 3-27-13
+
+340-216-0069
+Toxic Air Contaminant Permit Addendums
+
+(1) Purpose and Intent. DEQ may implement requirements pertaining to toxic air contaminants under OAR chapter 340, division 245 as follows:
+
+(a) For new sources required to obtain a Standard or Simple ACDP, by including conditions in the source’s ACDP to ensure compliance with the Cleaner Air Oregon rules, OAR chapter 340, division 245;
+
+(b) For new sources required to obtain a Basic or General ACDP, by including conditions in an addendum to the source’s ACDP to ensure compliance with the Cleaner Air Oregon rules, OAR chapter 340, division 245; and
+
+(c) For existing sources, by requiring the owner or operator of the sources to obtain a Toxic Air Contaminant Permit Addendum under OAR chapter 340, division 245 that amends the source’s ACDP.
+
+(2) A Toxic Air Contaminant Permit Addendum will be incorporated into a source’s ACDP upon renewal or modification that involves a public notice for which DEQ has followed the Category II or Category III public notice procedure in OAR chapter 340, division 209, except for sources that have Basic or General ACDPs.
+
+(3) OAR 340-216-0062 and 340-216-0068 do not apply to Toxic Air Contaminant Permit Addenda.
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.025, 468A.040, 468A.050, 468A.070 & 468A.155
+Statutes/Other Implemented: 468.065, 468A.025, 468A.040, 468A.050, 468A.070, 468A.155, 468A.010, 468A.015 & 468A.035
+History:
+DEQ 197-2018, adopt filed 11/16/2018, effective 11/16/2018
+
+340-216-0070
+Permitting Multiple Sources at a Single Adjacent or Contiguous Site
+
+A single or contiguous site containing activities or processes that are covered by more than one General ACDP, or a source that contains processes or activities listed in more than one part of OAR 340-216-8010 may obtain a Standard ACDP, even if not otherwise required to obtain a Standard ACDP under this division.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040.]
+
+[NOTE: All tables are found in OAR 340-216-8010, -8020, -8030.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040 & 468A.310
+Statutes/Other Implemented: ORS 468 & 468A
+History:
+DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1730
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0160
+Renumbered from 340-020-0033, DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 107, f. & ef. 1-6-76
+DEQ 63, f. 12-20-73, ef. 1-11-74
+DEQ 47, f. 8-31-72, ef. 9-15-72
+
+340-216-0082
+Expiration, Termination, Reinstatement or Revocation of an ACDP
+
+(1) Expiration.
+
+(a) A source may not be operated after the expiration date of a permit, unless any of the following occur prior to the expiration date of the permit:
+
+(A) A timely and complete application for renewal or reassignment has been submitted; or
+
+(B) Another type of permit, ACDP or Oregon Title V Operating Permit, has been applied for or issued authorizing operation of the source.
+
+(b) If a timely and complete renewal or reassignment application has been submitted, the existing permit will remain in effect until final action has been taken on the renewal application to issue or deny a permit.
+
+(c) For a source operating under an ACDP or Oregon Title V Operating Permit, a requirement established in an earlier ACDP remains in effect notwithstanding expiration of the ACDP, unless the provision expires by its terms or unless the provision is modified or terminated according to the procedures used to establish the requirement initially.
+
+(2) Termination. Except as provided in section (3), a source may not be operated after the termination of a permit. A permit terminates upon:
+
+(a) Issuance of a renewal, reassigned ACDP or a new ACDP for the same activity or operation;
+
+(b) Written request by the permittee to DEQ requesting termination. If DEQ determines that a permit is no longer needed, DEQ will confirm termination in writing to the permittee;
+
+(c) Failure to submit a timely and complete application for permit renewal or reassignment as required in OAR 340-216-0040. Termination is effective on the permit expiration date;
+
+(d) Failure to pay annual fees within 90 days of the invoice due date as issued by DEQ, unless prior arrangements for a payment plan have been approved in writing by DEQ.
+
+(3) Termination of construction approval.
+
+(a) Construction approval issued by DEQ under this division terminates and is invalid for the following reasons:
+
+(A) Construction is not commenced within 18 months after DEQ issues such approval, by an alternative deadline established by DEQ under this section, or by the deadline approved by DEQ in an extension under subsection (b);
+
+(B) Construction is discontinued for a period of 18 months or more; or
+
+(C) Construction is not completed within 18 months of the anticipated date of construction completion included in the application.
+
+(b) The owner or operator of a source for which construction approval has been terminated under subsection (a) may submit a request to extend the construction commencement deadline by submitting a written, detailed explanation of why the source could not commence construction within the initial 18-month period. DEQ may grant for good cause one 18-month construction approval extension.
+
+(4) Reinstatement of Terminated Permit.
+
+(a) A permit subject to termination under subsection (2)(c) may only be reinstated if, not later than 30 days after the permit expiration date, the permittee submits a complete renewal application and pays a late application fee equivalent to the initial new permitting application fee that would apply if the source was a new source, in which case the existing, expired permit will be reinstated effective as of the permit expiration date and will remain in effect until final action has been taken on the renewal application to issue or deny a permit;
+
+(b) A permit terminated under subsection (2)(d) may only be reinstated if, not later than 90 days after termination, the permittee pays all unpaid annual fees and applicable late fees in which case the existing permit will be reinstated effective on the date of termination; and
+
+(c) A terminated permit may only be reinstated as provided in subsections (a) and (b). If neither subsection (a) or (b) apply, the former permittee of a terminated permit who wishes to obtain an ACDP must submit a complete application for a new permit, including paying applicable new source permit application fees and any unpaid annual fees and late fees that were due under the terminated permit. Until DEQ issues or reassigns a new permit, the source may not operate.
+
+(5) Revocation:
+
+(a) If DEQ determines that a permittee is in noncompliance with the terms of the permit, submitted false information in the application or other required documentation, or is in violation of any applicable rule or statute, DEQ may revoke the permit. DEQ will provide notice of the intent to revoke the permit to the permittee under OAR 340-011-0525. The notice will include the reasons why the permit will be revoked, and include an opportunity for the permittee to request a contested case hearing prior to the revocation. A permittee’s written request for hearing must be received by DEQ within 60 days from service of the notice on the permittee, and must state the grounds of the request. The hearing will be conducted as a contested case hearing under ORS 183.413 through 183.470 and OAR chapter 340, division 011. The permit will continue in effect until the 60th day after service of the notice on the permittee, if the permittee does not timely request a hearing, or until a final order is issued if the permittee timely requests a hearing.
+
+(b) If DEQ finds there is a serious danger to the public health, safety or the environment caused by a permittee's activities, DEQ may immediately revoke or refuse to renew the permit without prior notice or opportunity for a hearing. If no advance notice is provided, notification will be provided to the permittee as soon as possible under OAR 340-011-0525. The notification will set forth the specific reasons for the revocation or refusal to renew and will provide an opportunity for the permittee to request a contested case hearing for review of the revocation or refusal to renew. A permittee’s written request for hearing must be received by DEQ within 90 days of service of the notice on the permittee and must state the grounds for the request. The hearing will be conducted as a contested case hearing under ORS 183.413 through 183.470 and OAR chapter 340, division 011. The revocation or refusal to renew becomes final without further action by DEQ if a request for a hearing is not received within the 90 days. If a request for a hearing is timely received, the revocation or refusal to renew will remain in place until issuance of a final order.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.025, 468A.040, 468A.310 & 468A.315
+Statutes/Other Implemented: ORS 183.468 & 468A
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01, Renumbered from 340-014-0015 & 340-014-0045
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 21-1990, f. & cert. ef. 7-6-90
+DEQ 125, f. & cert. ef. 12-16-76
+DEQ 42, f. 4-5-72, cert. ef. 4-15-72
+
+340-216-0084
+Department Initiated Modification
+
+(1) If DEQ determines it is appropriate to modify an ACDP, other than a General ACDP, DEQ will notify the permittee by regular, registered or certified mail of the modification and will include the proposed modification and the reasons for the modification, following the permit issuance procedures in OAR 340-216-0056(5) for Basic ACDPs, OAR 340-216-0064(5) for Simple ACDPs, and OAR 340-216-0066(4) for Standard ACDPs.
+
+(2) The modification will become effective upon mailing unless the permittee requests a contested case hearing within 20 days. A request for hearing must be made in writing and must include the grounds for the request. The hearing will be conducted as a contested case hearing under ORS 183.413 through 183.470 and OAR 340 division 011. If a hearing is requested, the existing permit will remain in effect until after a final order is issued following the hearing.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040 & 468A.310
+Statutes/Other Implemented: ORS 183 & 468A
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01, Renumbered from 340-014-0040
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 42, f. 4-5-72, ef. 4-15-72
+
+340-216-0090
+Sources Subject to ACDPs and Fees
+
+(1) All air contaminant discharge sources listed in OAR 340-216-8010 must obtain a permit from DEQ and are subject to fees in OAR 340-216-8020.
+
+(2) An owner or operator of a source that is required to demonstrate compliance with Cleaner Air Oregon rules under OAR 340-245-0005 through 340-245-8010 must pay the fees specified in OAR 340-216-8030.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040 with the exception of all references to toxic air contaminants and OAR chapter 340, division 245.
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.040, 468A.310 & 468A.315
+Statutes/Other Implemented: ORS 468.065, 468A.040, 468A.310 & 468A.315
+History:
+DEQ 18-2021, amend filed 11/17/2021, effective 11/17/2021
+DEQ 197-2018, amend filed 11/16/2018, effective 11/16/2018
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+DEQ 5-2011, f. 4-29-11, cert. ef. 5-1-11
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 8-2000, f. & cert. ef. 6-6-00
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1750
+DEQ 10-1999, f. & cert. ef. 7-1-99
+DEQ 14-1998, f. & cert. ef. 9-14-98
+DEQ 12-1998, f. & cert. ef. 6-30-98
+DEQ 7-1998, f. & cert. ef. 5-5-98
+DEQ 18-1997, f. 8-27-97, cert. ef. 10-1-97
+DEQ 22-1995, f. & cert. ef. 10-6-95
+DEQ 22-1994. f. & cert. ef. 10-14-94
+DEQ 21-1994, f. & cert. ef. 10-14-94
+DEQ 13-1994, f. & cert. ef. 5-19-94
+DEQ 20-1993(Temp), f. & cert. ef. 11-4-93
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0165
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 27-1991, f. & cert. ef. 11-29-91
+DEQ 17-1990, f. & cert. ef. 5-25-90
+DEQ 12-1987, f. & cert. ef. 6-15-87
+DEQ 6-1986, f. & cert. ef. 3-26-86
+DEQ 11-1983, f. & cert. ef. 5-31-83
+DEQ 20-1979, f. & cert. ef. 6-29-79
+DEQ 125, f. & cert. ef. 12-16-76
+DEQ 107, f. & cert. ef. 1-6-76, Renumbered from 340-020-0033(12)
+DEQ 63, f. 12-20-73, cert. ef. 1-11-74
+DEQ 47, f. 8-31-72, ef. 9-15-72
+
+340-216-0094
+Temporary Closure
+
+(1) A permittees that temporarily suspends activities for which an ACDP is required may apply for a fee reduction due to temporary closure. However, the anticipated period of closure must exceed six months and must not be due to regular maintenance or seasonal limitations.
+
+(2) DEQ will prorate annual fees for temporary closure based on the length of the closure in a calendar year, but will not be less than one half of the regular annual fee for the source.
+
+(3) A source who has received Department approval for payment of the temporary closure fee must obtain authorization from DEQ prior to resuming permitted activities. An owner or operator of the source must submit written notification, together with the prorated annual fee for the remaining months of the year, to DEQ at least thirty (30) days before startup and specify in the notification the earliest anticipated startup date.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.040, 468A.310 & 468A.315
+Statutes/Other Implemented: ORS 468 & 468A
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+
+340-216-8010
+Table 1 — Activities and Sources
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+[NOTE: For the history of these tables prior to 2014 see the history under OAR 340-216-0020]
+
+[ED. NOTE: To view attachments referenced in rule text, click here to view rule.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040 & 468A.310
+Statutes/Other Implemented: ORS 468A
+History:
+DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 16-2021, amend filed 10/04/2021, effective 10/04/2021
+DEQ 17-2020, amend filed 09/21/2020, effective 09/21/2020
+DEQ 59-2017, minor correction filed 12/20/2017, effective 12/20/2017
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 12-2014(Temp), f. & cert. ef. 11-12-14 thru 5-10-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+
+340-216-8020
+Table 2 — Air Contaminant Discharge Permits
+
+(1) Sources referred to in Table 1 of OAR 340-216-8010 are subject to air contaminant discharge permit fees in Table 2. Title V sources may be subject to the Cleaner Air Oregon annual fees and the specific activity permit fees in Table 2, if applicable.
+
+(2) Requests for waiver of fees must be made in writing to the Director, on a case-by-case basis, and be based upon financial hardship. Applicants for waivers must describe the reason for the request and certify financial hardship. The Director may waive part or all of a fee.
+
+[NOTE: For the history of these tables prior to 2014 see the history under OAR 340-216-0020.]
+
+[ED. NOTE: To view attachments referenced in rule text, click here to view rule.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040 & 468A.310
+Statutes/Other Implemented: ORS 468A
+History:
+DEQ 14-2024, amend filed 09/10/2024, effective 09/10/2024
+DEQ 17-2023, amend filed 11/16/2023, effective 11/16/2023
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 17-2020, amend filed 09/21/2020, effective 09/21/2020
+DEQ 15-2019, amend filed 06/25/2019, effective 06/25/2019
+DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019
+DEQ 197-2018, amend filed 11/16/2018, effective 11/16/2018
+DEQ 60-2017, minor correction filed 12/20/2017, effective 12/20/2017
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+
+340-216-8030
+Table 3 — Cleaner Air Oregon Specific Activity Fees
+
+Sources subject to OAR chapter 340, division 245, Cleaner Air Oregon, are required to pay the specific activity fees in Table 3.
+
+[ED. NOTE: To view attachments referenced in rule text, click here to view rule.]
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.040, 468A.050 & 468A.315
+Statutes/Other Implemented: ORS 468.020, 468.065, 468A.040, 468A.050 & 468A.315
+History:
+DEQ 14-2024, amend filed 09/10/2024, effective 09/10/2024
+DEQ 20-2019, amend filed 09/05/2019, effective 09/05/2019
+DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019
+DEQ 197-2018, adopt filed 11/16/2018, effective 11/16/2018

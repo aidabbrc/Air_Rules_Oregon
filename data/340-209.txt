@@ -1,0 +1,294 @@
+Department of Environmental Quality
+Chapter 340
+Division 209
+PUBLIC PARTICIPATION
+340-209-0010
+Purpose
+
+The purpose of this division is to specify the requirements for notifying the public of certain permit actions and providing an opportunity for the public to participate in those permit actions.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468.065 & 468A.310
+Statutes/Other Implemented: ORS 468.065, 468A.035, 468A.040 & ORS 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+
+340-209-0020
+Applicability
+
+This division applies to permit actions requiring public notice as specified in OAR 340, divisions 216, 218 and 245.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040 with the exception of all references to toxic air contaminants and OAR chapter 340, division 245.
+
+Statutory/Other Authority: ORS 468.020, 468.065 & 468A.310
+Statutes/Other Implemented: ORS 468.065, 468A.035, 468A.040 & 468A.310
+History:
+DEQ 197-2018, amend filed 11/16/2018, effective 11/16/2018
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+
+340-209-0030
+Public Notice Categories and Timing
+
+(1) DEQ categorizes permit actions according to potential environmental and public health significance and the degree to which DEQ has discretion for implementing the applicable regulations. Category I is for permit actions with low environmental and public health significance so they have less public notice and opportunity for public participation. Category IV is for permit actions with potentially high environmental and public health significance so they have the greatest level of public notice and opportunity for participation.
+
+(2) Permit actions are assigned to specific categories in OAR 340, divisions 216, 218, and 245. If a permit action is uncategorized, the permit action will be processed under Category III.
+
+(3) The following describes the public notice or participation requirements for each category:
+
+(a) Category I — No prior public notice or opportunity for participation. However, DEQ will maintain a list of all permit actions processed under Category I and make the list available for public review.
+
+(b) Category II — DEQ will provide public notice of the proposed permit action and a minimum of 30 days to submit written comments.
+
+(c) Category III — DEQ will provide public notice of the proposed permit action and a minimum of 35 days to submit written comments. DEQ will provide a minimum of 30 days' notice for a hearing, if one is scheduled. DEQ will schedule a hearing at a reasonable time and place to allow interested persons to submit oral or written comments if:
+
+(A) DEQ determines that a hearing is necessary; or
+
+(B) Within 35 days of the mailing of the public notice, DEQ receives written requests from ten persons, or from an organization representing at least ten persons, for a hearing.
+
+(d) Category IV — Once an application is considered complete under OAR 340-216-0040, DEQ will:
+
+(A)(i) Provide notice of the completed application and requested permit action; and
+
+(ii) Schedule an informational meeting within the community where the facility will be or is located and provide public notice at least 14 days before the meeting. During the meeting, DEQ will describe the requested permit action and accept comments from the public. DEQ will consider any information gathered in this process in its drafting of the proposed permit, but will not maintain an official record of the meeting and will not provide a written response to the comments;
+
+(B) Once a draft permit is completed, provide public notice of the proposed permit and a minimum of 40 days to submit written comments; and
+
+(C) Schedule a public hearing at a reasonable time and place to allow interested persons to submit oral or written comments and provide a minimum of 30 days public notice for the hearing.
+
+(4) Except for actions regarding Oregon Title V Operating Permits, DEQ may move a permit action to a higher category under section (3) based on, but not limited to the following factors:
+
+(a) Anticipated public interest in the facility;
+
+(b) Compliance and enforcement history of the facility or owner;
+
+(c) Potential for significant environmental or public harm due to location or type of facility; or
+
+(d) Federal requirements.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040 with the exception of all references to toxic air contaminants and OAR chapter 340, division 245.
+
+Statutory/Other Authority: ORS 468.020, 468.065 & 468A.310
+Statutes/Other Implemented: ORS 468.065, 468A.040, 468A.310 & 468A.035
+History:
+DEQ 197-2018, amend filed 11/16/2018, effective 11/16/2018
+DEQ 123-2018, minor correction filed 04/11/2018, effective 04/11/2018
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 8-2009, f. & cert. ef. 12-16-09
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+
+340-209-0040
+Public Notice Information
+
+(1) The following information is required in public notices for all proposed ACDP, draft Oregon Title V Operating Permit actions, and Toxic Air Contaminant Permit Addenda(t) issued under division 245, except for General Permit actions:
+
+(a) Name of applicant and location of the facility;
+
+(b) Type of facility, including a description of the facility's processes subject to the permit;
+
+(c) Description of the air contaminant emissions including, the type of regulated pollutants, quantity of emissions, and any decreases or increases since the last permit action for the facility;
+
+(d) Location and description of documents relied upon in preparing the draft permit;
+
+(e) Other permits required by DEQ;
+
+(f) Date of previous permit actions;
+
+(g) Opportunity for public comment and a brief description of the comment procedures, whether in writing or in person, including the procedures for requesting a hearing (unless a hearing has already been scheduled or is not an option for the public notice category);
+
+(h) Compliance, enforcement, and complaint history along with resolution of the same;
+
+(i) A summary of the discretionary decisions made by DEQ in drafting the permit;
+
+(j) Type and duration of the proposed or draft permit action;
+
+(k) Basis of need for the proposed or draft permit action;
+
+(l) Any special conditions imposed in the proposed or draft permit action;
+
+(m) Whether each proposed permitted emission is a criteria pollutant and whether the area in which the source is located is designated as attainment/unclassified, sustainment, nonattainment, reattainment or maintenance for that pollutant;
+
+(n) If the proposed permit action is for a federal major source, whether the proposed permitted emission would have a significant impact on a Class I airshed;
+
+(o) If the proposed permit action is for a major source for which dispersion modeling has been performed, an indication of what impact each proposed permitted emission would have on the ambient air quality standard and PSD increment consumption within an attainment area;
+
+(p) Other available information relevant to the permitting action;
+
+(q) The name and address of DEQ office processing the permit;
+
+(r) The name, address, and telephone number and e-mail address of a person from whom interested persons may obtain additional information, including copies of the permit draft, the application, all relevant supporting materials, including any compliance plan, permit, and monitoring and compliance certification report, except for information that is exempt from disclosure, and all other materials available to DEQ that are relevant to the permit decision;
+
+(s) If applicable, a statement that an enhanced NSR process under OAR 340 division 224, including the external review procedures required under OAR 340-218-0210 and 340-218-0230, is being used to allow for subsequent incorporation of the operating approval into an Oregon Title V Operating Permit as an administrative amendment; and
+
+(t) For Toxic Air Contaminant Permit Addenda and ACDP permits that include conditions consistent with OAR chapter 340, division 245, a list of estimated toxic air contaminant emissions and, if applicable, a summary of the results of any risk assessment.
+
+(2) General Permit Actions. The following information is required for General ACDP and General Oregon Title V Operating Permit actions:
+
+(a) The name and address of potential or actual facilities assigned to the General Permit;
+
+(b) Type of facility, including a description of the facility's process subject to the permit;
+
+(c) Description of the air contaminant emissions including, the type of regulated pollutants, quantity of emissions, and any decreases or increases since the last permit action for the potential or actual facilities assigned to the permit;
+
+(d) Location and description of documents relied upon in preparing the draft permit;
+
+(e) Other permits required by DEQ;
+
+(f) Date of previous permit actions;
+
+(g) Opportunity for public comment and a brief description of the comment procedures, whether in writing or in person, including the procedures for requesting a hearing (unless a hearing has already been scheduled or is not an option for the Public Notice category);
+
+(h) Compliance, enforcement, and complaint history along with resolution of the same;
+
+(i) A summary of the discretionary decisions made by DEQ in drafting the permit;
+
+(j) Type and duration of the proposed or draft permit action;
+
+(k) Basis of need for the proposed or draft permit action;
+
+(l) Any special conditions imposed in the proposed or draft permit action;
+
+(m) Whether each proposed permitted emission is a criteria pollutant and whether the area in which the sources are located are designated as attainment or non-attainment for that pollutant;
+
+(n) If the proposed permit action is for a federal major source, whether the proposed permitted emission would have a significant impact on a Class I airshed;
+
+(o) Other available information relevant to the permitting action; and
+
+(p) The name and address of DEQ office processing the permit;
+
+(q) The name, address, and telephone number and e-mail address of a person from whom interested persons may obtain additional information, including copies of the permit draft, the application, all relevant supporting materials, including any compliance plan, permit, and monitoring and compliance certification report, except for information that is exempt from disclosure, and all other materials available to DEQ that are relevant to the permit decision.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040 with the exception of all references to toxic air contaminants and OAR chapter 340, division 245.
+
+Statutory/Other Authority: ORS 468.020, 468.065 & 468A.310
+Statutes/Other Implemented: ORS 468.065, 468A.040, 468A.310 & 468A.035
+History:
+DEQ 197-2018, amend filed 11/16/2018, effective 11/16/2018
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01, Renumbered from 340-216-0050
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1710
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0150
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 34-1990, f. 8-20-90, cert. ef. 9-1-90
+DEQ 13-1988, f. & cert. ef. 6-17-88
+DEQ 107, f. & ef. 1-6-76, Renumbered from 340-020-0033
+DEQ 63, f. 12-20-73, ef. 1-11-74
+DEQ 47, f. 8-31-72, ef. 9-15-72
+
+340-209-0050
+Public Notice Procedures
+
+(1) All notices. DEQ will mail or email a notice of proposed permit actions to the persons identified in OAR 340-209-0060.
+
+(2) NSR, Oregon Title V Operating Permit and General ACDP actions. In addition to section (1), DEQ will provide notice of NSR, Oregon Title V Operating Permit and General ACDP actions as follows:
+
+(a) Advertisement in a newspaper of general circulation in the area where the source or sources are or will be located, electronic noticing (termed e-notice), or a DEQ publication designed to give general public notice; and
+
+(b) Other means, if necessary, to assure adequate notice to the affected public.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468.065 & 468A.310
+Statutes/Other Implemented: ORS 468.065, 468A.035, 468A.040 & 468A.310
+History:
+DEQ 197-2018, amend filed 11/16/2018, effective 11/16/2018
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+
+340-209-0060
+Persons Required to Be Notified
+
+(1) All notices. For all types of public notice, DEQ will provide notice to the following persons:
+
+(a) The applicant;
+
+(b) Persons on a mailing list maintained by DEQ, including those who request in writing to be notified of air quality permit actions;
+
+(c) Local news media; and
+
+(d) Interested state and federal agencies.
+
+(2) General ACDP or General Oregon Title V Operating Permit actions. In addition to section (1), DEQ will notify the following:
+
+(a) Potential applicants; and
+
+(b) All existing permit holders in the source category in the case where a General Permit is being issued to a category of sources already permitted.
+
+(3) Oregon Title V Operating Permit actions. DEQ will provide notice to affected states and the EPA in addition to the persons identified in sections (1) and (2).
+
+(4) NSR actions. For NSR actions excluding Type B State NSR actions (OAR 340 division 224), DEQ will provide notice to the following officials and agencies having jurisdiction over the location where the proposed construction would occur in addition to the persons identified in section (1):
+
+(a) The chief executives of the city and county where the source or modification would be located;
+
+(b) Any comprehensive regional land use planning agency;
+
+(c) Any state, federal land manager, or Indian governing body whose land may be affected by emissions from the source or modification; and
+
+(d) The EPA.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468.065 & 468A.310
+Statutes/Other Implemented: ORS 468.065, 468A.035, 468A.040 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+
+340-209-0070
+Hearing Procedures
+
+When a public hearing is required or requested, DEQ will provide the hearing at a reasonable place and time before taking the final permit action.
+
+(1) Notice of the hearing may be given either in the notice accompanying the proposed or draft permit action or in such other manner as is reasonably calculated to inform interested persons. DEQ will provide notice of the hearing at least 30 days before the hearing.
+
+(2) Presiding Officer. A Presiding Officer will preside over the public hearing and ensure that proper procedures are followed to allow for the public to comment on the proposed permit action.
+
+(a) Before accepting oral or written comments by members of the public, the Presiding Officer or DEQ representative will present a summary of the proposed permit action DEQ's preliminary decision. During this period, there may be an opportunity to ask questions about the proposed or draft permit action.
+
+(b) The Presiding Officer will then provide an opportunity for interested persons to submit oral or written comments regarding the proposed permit action. Interested persons are encouraged to submit written comments because time constraints may be imposed, depending on the level of participation. While public comment is being accepted, discussion of the proposed or draft permit action will not be allowed.
+
+(c) After the public hearing, the Presiding Officer will prepare a report of the hearing that includes the date and time of the hearing, the permit action, names of persons attending the hearing, written comments, and a summary of the oral comments. The Presiding Officer's report will be entered into the permit action record.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020
+Statutes/Other Implemented: ORS 468 & 468A
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01, Renumbered from 340-014-0022
+DEQ 15-2000, f. & cert. ef. 10-11-00, Renumbered from 340-011-0007
+DEQ 9-1996, f. & cert. ef. 7-10-96
+DEQ 34-1990, f. 8-20-90, cert. ef. 9-1-90
+DEQ 7-1988, f. & cert. ef. 5-6-88 (and corrected 9-30-88)
+DEQ 122, f. & ef. 9-13-76
+DEQ 78, f. 9-6-74, ef. 9-25-74
+
+340-209-0080
+Issuance or Denial of a Permit
+
+(1) Following the public comment period and public hearing, if one is held, DEQ will take action upon the matter as expeditiously as possible. Before taking such action, DEQ will prepare a written response to address each relevant, distinct issue raised during the comment period and raised during the hearing on the record.
+
+(2) DEQ will make a record of the public comments, including the names and affiliation of persons who commented, and the issues raised during the public participation process. The public comment records may be in summary form rather than a verbatim transcript. The public comment records are available to the public at the DEQ office processing the permit.
+
+(3) The applicant may submit a written response to any comments submitted by the public within 10 working days after DEQ provides the applicant with a copy of the written comments received by DEQ. DEQ will consider the applicant's response in making a final decision.
+
+(4) After considering the comments, DEQ may adopt or modify the provisions requested in the permit application.
+
+(5) Issuance of permit: DEQ will promptly notify the applicant in writing of the final action as provided in OAR 340-011-0525 and will include a copy of the issued permit. If the permit conditions are different from those contained in the proposed permit, the notification will identify the affected conditions and include the reasons for the changes. The permit is effective on the date that it is signed unless the applicant requests a hearing to contest the permit within 20 days of the date of the notification of issuance of the permit.
+
+(6) Denial of a permit application: If DEQ proposes to deny a permit application, DEQ will promptly notify the applicant in writing of the proposed final action as provided in OAR 340-011-0525.The notification will include the reasons for the denial. The denial of a permit application is effective 60 days from the date of notification of the proposed denial unless within that time, the applicant requests a hearing as provided in section (7).
+
+(7) A request for a hearing to challenge a DEQ decision under section (5) or (6) must be in writing and state the grounds for the request. The hearing will be conducted as a contested case hearing in accordance with ORS 183.413 through 183.470 and OAR chapter 340, division 11.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468.065 & 468A.310
+Statutes/Other Implemented: ORS 183.413, 183.415, 468.065, 468A.035, 468A.040 & 468A.310
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 42, f. 4-5-72, ef. 4-15-72; DEQ 13-1988, f. & cert. ef. 6-17-88; DEQ 4-1993, f. & cert. ef. 3-10-93; DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01, Renumbered from 340-014-0025 & 340-014-0035; DEQ 8-2007, f. & cert. ef. 11-8-07

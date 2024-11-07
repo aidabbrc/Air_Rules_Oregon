@@ -1,0 +1,561 @@
+Department of Environmental Quality
+Chapter 340
+Division 210
+STATIONARY SOURCE NOTIFICATION REQUIREMENTS
+340-210-0010
+Applicability and Jurisdiction
+
+(1) This division applies to air contaminant sources, to stationary sources, and to modifications of existing portable sources that are required to have permits under OAR 340 division 216.
+
+(2) Subject to the requirements in this division and OAR 340-200-0010(3), LRAPA is designated by the EQC to implement the rules in this division within its area of jurisdiction.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468.065, 468A.025, 468A.040, 468A.050, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468.065, 468A.025, 468A.035 468A.040, 468A.050, 468A.070 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-0200
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93
+
+340-210-0020
+Definitions
+
+The definitions in OAR 340-200-0020, 340-204-0010 and this rule apply to this division. If the same term is defined in this rule and 340-200-0020 or 340-204-0010, the definition in this rule applies to this division.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468.065 & 468A
+Statutes/Other Implemented: ORS 468.065 & 468A
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 14-1999, f. & cert. ef. 10-14-99
+
+340-210-0100
+Registration in General
+
+(1) Any air contaminant source not subject to Air Contaminant Discharge Permits, OAR chapter 340, division 216, or Oregon Title V Operating Permits, OAR chapter 340, division 218, must register with DEQ upon request pursuant to OAR 340-210-0110 through 340-210-0120.
+
+(2) The owner or operator of an air contaminant source listed in subsection (a) that is certified through a DEQ approved environmental certification program, as provided in subsection (b), and that is subject to an Area Source NESHAP may register the source with DEQ pursuant to OAR 340-210-0110 through 340-210-0120 in lieu of obtaining a permit otherwise required by OAR 340-216-0020, unless DEQ determines that the source has not complied with the requirements of the environmental certification program. A source registered under this section must pay fees as provided in subsection (c), is subject to termination of its registration for failure to pay fees as provided in subsection (d), and must keep records as provided in subsection (e).
+
+(a) The following sources may be registered under this section:
+
+(A) Motor vehicle surface coating operations.
+
+(B) Dry cleaners using perchloroethylene.
+
+(b) Approved environmental certification program. To be approved, the environmental certification program must, at a minimum, require certified sources to comply with all applicable state and federal rules and regulations and require additional measures to increase environmental protection.
+
+(c) Fees. In order to obtain and maintain registration, owners and operators of sources registered pursuant to this section must pay the annual registration fees in OAR 340-216-8020 Table 2 by March 1 of each year.
+
+(d) Failure to pay fees. Registration is automatically terminated upon failure to pay annual fees by March 1 of each year, unless prior arrangements for payment have been approved in writing by DEQ.
+
+(e) Recordkeeping. In order to maintain registration, owners and operators of sources registered pursuant to this section must maintain records required by the approved environmental performance program under subsection (b). The records must be kept on site and in a form suitable and readily available for expeditious inspection and review.
+
+(3) The owner or operator of an air contaminant source that is subject to a federal NSPS in 40 CFR part 60 or NESHAP in 40 CFR part 63 and that is not located at a source that is required to obtain a permit under OAR chapter 340, division 216 (Air Contaminant Discharge Permits) or OAR chapter 340, division 218 (Oregon Title V Operating Permits), must register and maintain registration with DEQ pursuant to OAR 340-210-0110 through 340-210-0120 if requested in writing by DEQ (or by EPA at DEQ’s request).
+
+(4) Revocation. DEQ may revoke a registration if a source fails to meet any requirement in OAR 340-210-0110.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan as adopted by the EQC under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.035, 468A.050, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A.025, 468A.035, 468A.050, 468A.070 & 468A.310
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 9-2014, f. & cert. ef. 6-26-14
+Reverted to DEQ 4-2013, f. & cert. ef. 3-27-13
+DEQ 9-2013(Temp), f. & cert. ef. 10-24-13 thru 4-22-14
+DEQ 4-2013, f. & cert. ef. 3-27-13
+DEQ 1-2012, f. & cert. ef. 5-17-12
+Reverted to DEQ 8-2009, f. & cert. ef. 12-16-09
+DEQ 7-2011(Temp), f. & cert. ef. 6-24-11 thru 12-19-11
+DEQ 8-2009, f. & cert. ef. 12-16-09
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-0500
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0005
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 15, f. 6-12-70, ef. 9-1-70
+
+340-210-0110
+Registration Requirements
+
+(1) Registration pursuant to OAR 340-210-0100(1) or (3) must be completed within 30 days following the mailing date of the request by DEQ.
+
+(2) Registration must be completed by the owner, lessee of the source, or agent on forms made available by DEQ. If a form is not available from DEQ, the registrant may provide the information using a format approved by DEQ.
+
+(3) In order to obtain registration pursuant to OAR 340-210-0100(1), the following information must be reported by registrants:
+
+(a) Name, address, and nature of business;
+
+(b) Name of local person responsible for compliance with these rules;
+
+(c) Name of person authorized to receive requests for data and information;
+
+(d) A description of the production processes and a related flow chart;
+
+(e) A plot plan showing the location and height of all air contaminant sources. The plot plan must also indicate the nearest residential or commercial property;
+
+(f) Type and quantity of fuels used;
+
+(g) Amount, nature, and duration of air contaminant emissions;
+
+(h) Estimated efficiency of air pollution control devices under present or anticipated operating conditions;
+
+(i) Any other information requested by DEQ.
+
+(4) In order to obtain registration pursuant to OAR 340-210-0100(2), the following information must be submitted by a registrant:
+
+(a) Name, address, and nature of business;
+
+(b) Name of local person responsible for compliance with these rules;
+
+(c) Name of person authorized to receive requests for data and information;
+
+(d) Information demonstrating that the air contaminant source is operating in compliance with all applicable state and federal rules and regulations, as requested by DEQ;
+
+(e) Information demonstrating that the source is certified through an approved environmental certification program;
+
+(f) A signed statement that the submitted information is true, accurate, and complete. This signed statement must state that, based on information and belief formed after reasonable inquiry, the statements and information in the document are true, accurate, and complete;
+
+(g) Any other information requested by DEQ.
+
+(5) In order to obtain registration pursuant to OAR 340-210-0100(3), the following information must be submitted by a registrant:
+
+(a) Name, address and nature of business or institution;
+
+(b) Name of local person responsible for compliance with these rules;
+
+(c) Name of person authorized to receive requests for data and information;
+
+(d) A description of the air contaminant source subject to regulation;
+
+(e) Identification of the applicable regulation;
+
+(f) Confirmation that approval to construct and operate the air contaminant source was obtained in accordance with OAR 340-210-0205 through 340-0210-0250;
+
+(g) Confirmation that the air contaminant source is operating in compliance with all applicable state rules and regulations, including but not limited to OAR 340-208-0110 (visible air contaminant limitations) and 340-226-0210 or 340-228-0210 (grain loading standards);
+
+(h) Confirmation that the air contaminant source is operating in compliance with all applicable federal rules and regulations, including but not limited to 40 CFR part 60 and part 63 standards and work practice requirements, such as routine tune-up for boilers; and
+
+(i) Any other information requested by DEQ.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.050, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A.025, 468A.035, 468A.050, 468A.070 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 1-2012, f. & cert. ef. 5-17-12
+Reverted to DEQ 8-2009, f. & cert. ef. 12-16-09
+DEQ 7-2011(Temp), f. & cert. ef. 6-24-11 thru 12-19-11
+DEQ 8-2009, f. & cert. ef. 12-16-09
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-0510
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0010
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 15, f. 6-12-70, ef. 9-1-70
+
+340-210-0120
+Re-Registration and Maintaining Registration
+
+(1) In order to re-register or maintain registration pursuant to OAR 340-210-0100, a person responsible for an air contaminant source must reaffirm in writing, by March 1 of each year, the correctness and current status of the information furnished to DEQ.
+
+(2) In order to re-register or maintain registration pursuant to OAR 340-210-0100(3):
+
+(a) The registrant must report any change in any of the factual information reported under OAR 340-210-0110 to DEQ on a form made available by DEQ; and
+
+(b) The registrant must confirm the compliance status of the air contaminant source, including but not limited to compliance with any work practice requirements such as routine tune-ups. Confirmation must be made in writing on a form furnished by DEQ.
+
+(3) In order to re-register, or maintain registration, a person must not have had their registration terminated or revoked within the last 3 years, unless the air contaminant source has changed ownership since termination or revocation, in which case the person must not have had their registration terminated or revoked since the change in ownership.
+
+(4) If a registered air contaminant source is sold or transferred, the sale or transfer must be reported to DEQ by either the former owner or the new owner within 30 days of the date of sale or transfer. The new owner of the registered air contaminant source must register the air contaminant source within 30 days of the date of sale or transfer in accordance with OAR 340-210-0110(2) and (5).
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.050, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A.025, 468A.035, 468A.050, 468A.070 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 1-2012, f. & cert. ef. 5-17-12
+Reverted to DEQ 8-2009, f. & cert. ef. 12-16-09
+DEQ 7-2011(Temp), f. & cert. ef. 6-24-11 thru 12-19-11
+DEQ 8-2009, f. & cert. ef. 12-16-09
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-0520
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0015
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 15, f. 6-12-70, ef. 9-1-70
+
+340-210-0205
+Notice of Construction and Approval of Plans: Applicability and Requirements
+
+(1) Except as provided in section (2), OAR 340-210-0205 through 340-210-0250 apply to the following:
+
+(a) New Sources. Owners or operators of proposed new sources, not otherwise required to obtain a permit under OAR chapter 340, division 216 or 218, must submit a notice of construction application before undertaking construction or operation of a new source that emits any regulated air pollutant.
+
+(b) Existing Sources. Owners or operators of existing sources, including sources that have permits under OAR chapter 340, division 216 or 218, must submit the appropriate application before undertaking any of the following:
+
+(A) Construction or modification that will cause an increase, on an hourly basis at full production, in any regulated air pollutant emissions;
+
+(B) Replacement of a device or activity that emits any regulated air pollutants; or
+
+(C) Construction, modification, or replacement of any air pollution control device.
+
+(2) OAR 340-210-0205 through 340-210-0250 do not apply to the following sources:
+
+(a) Sources for which the owners or operators are required to obtain a permit under OAR chapter 340, division 216 or 218 for the construction or modification;
+
+(b) Agricultural operations or equipment that is exempted by OAR 340-200-0030;
+
+(c) Heating equipment in or used in connection with residences used exclusively as dwellings for not more than four families;
+
+(d) Other activities associated with residences used exclusively as dwellings for not more than four families, including, but not limited to barbecues, house painting, maintenance, and groundskeeping;
+
+(e) Portable sources, except modifications of portable sources that have permits under OAR chapter 340, division 216 or 218 and are specified in section (1); and
+
+(f) Categorically insignificant activities as defined in OAR 340-200-0020 unless they are subject to NESHAP or NSPS requirements. This exemption applies to all categorically insignificant activities whether or not they are located at major or non-major sources.
+
+(3) OAR 340-210-0205 through 340-210-0250 apply to Title V sources under OAR 340-218-0190 but are called Notices of Approval.
+
+[NOTE: This rule, with the exception of section (3), is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025 & 468A.055
+Statutes/Other Implemented: ORS 468A.025, 468A.035 & 468A.055
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 12-2008, f. & cert. ef. 9-17-08
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01, Renumbered from 340-210-0210
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-0810
+DEQ 22-1995, f. & cert. ef. 10-6-95
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0025
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 37, f. 2-15-72, ef. 3-1-72
+DEQ 15, f. 6-12-70, ef. 9-1-70
+
+340-210-0225
+Notice of Construction and Approval of Plans: Types of Construction/Modification Changes
+
+For the purpose of OAR 340-210-0205 through 340-210-0250, emission calculations for determining the type of change at a source must use the regulated air pollutant emission capacity, except for Type 1 changes under subsection (1)(b) and Type 4 changes. The notices of construction changes are divided into the following types:
+
+(1) Type 1 changes include construction or modification for which the owner or operator is not required to obtain a permit or permit modification under OAR chapter 340, division 216, and where the changes meet the criteria in either subsection (a) or (b):
+
+(a) The construction or modification would:
+
+(A) Have emissions from any new, modified, or replaced device or activity, or any combination of devices or activities, of less than or equal to the de minimis levels defined in OAR 340-200-0020;
+
+(B) Not result in an increase of emissions from the source above any PSEL;
+
+(C) Not result in an increase of emissions from the source above the netting basis by more than or equal to the SER;
+
+(D) Not be used to establish a federally enforceable limit on the potential to emit; and
+
+(E) Not require a TACT determination under OAR 340-226-0130 or a MACT determination under OAR 340-244-0200; or
+
+(b) The construction or modification is one of the following:
+
+(A) Stationary internal combustion engines having a rated capacity <60 horsepower output;
+
+(B) Emergency stationary internal combustion Tier 4 engines having a rated capacity <670 horsepower (500 kilowatts) output;
+
+(C) Hand-held sanding equipment;
+
+(D) Portable vacuum blasting equipment using steel shot and vented to a fabric filter;
+
+(E) Shot peening operations, provided that no surface material is removed;
+
+(F) Replacement of equipment that is used to control processes, such as temperature, air pressure, water pressure, electrical current, flow rate, etc.;
+
+(G) Equipment and instrumentation used for quality control/assurance or inspection purposes;
+
+(H) Vacuum pumps;
+
+(I) Equipment used for extrusion, compression molding, and injection molding of plastics, provided that the VOC content of all mold release products or lubricants is <1% by weight;
+
+(J) Injection or blow-molding equipment for rubber or plastics, provided that no blowing agent other than compressed air, water, or carbon dioxide is used;
+
+(K) Presses or molds used for curing, post-curing, or forming composite products and plastic products, provided that the blowing agent contains no VOC or chlorinated compounds;
+
+(L) Equipment used exclusively for the mixing and blending of materials at ambient temperature to make water-based adhesives;
+
+(M) Dredging wet spoils handling and placement;
+
+(N) Graphic label and/or box labeling operations where the inks are applied by hand stamping or hand rolling;
+
+(O) Ultraviolet disinfection processes;
+
+(P) The cleaning and/or deburring of metal products where all tumblers are used without abrasive blasting;
+
+(Q) Ozone generators and ozonation equipment;
+
+(R) Emissions from the storage and application of road salt (calcium chloride or sodium chloride);
+
+(S) Process emissions from sources which are located at private, public, or vocational education institutions, where the emissions are primarily the result of teaching and training exercises, and the institution is not engaged in the manufacture of products for commercial sale;
+
+(T) Degreasing units which exclusively use caustics (e.g., potassium hydroxide and sodium hydroxide);
+
+(U) Equipment used for hydraulic or hydrostatic testing with water-based hydraulic fluids;
+
+(V) Storage tanks, reservoirs, pumping and handling equipment, and control equipment used to exclusively vent such equipment of any size, limited to soaps, lubricants, hydraulic fluid, vegetable oil, grease, animal fat, aqueous salt solutions or other materials and processes using appropriate lids and covers where there is no generation of objectionable odor or airborne particulate matter or toxic air pollutants listed in OAR chapter 340, division 247;
+
+(W) Operation, loading and unloading storage of butane, propane, or liquefied petroleum gas with a vessel capacity less than 40,000 gallons where annual emissions are less than or equal to the de minimis levels;
+
+(X) Tanks, vessels and pumping equipment, with lids or other appropriate closure for storage or dispensing of aqueous solutions of inorganic salts, bases and acids;
+
+(Y) Ultraviolet curing processes, to the extent that toxic air contaminants as defined in OAR chapter 340, division 247 are not emitted;
+
+(Z) Contaminant detectors, sampling devices and recorders;
+
+(AA) Environmental chambers and humidity chambers using only gases that are not toxic air contaminants listed in OAR chapter 340, division 247;
+
+(BB) Lithographic printing equipment which uses laser printing;
+
+(CC) Equipment used exclusively for conveying and storage of plastic pellets that don’t break down or degrade and are only used for indoor manufacturing;
+
+(DD) Gas cabinets using only gasses that are not regulated air pollutants;
+
+(EE) Salt baths using nonvolatile salts and not used in operations which result in air emissions;
+
+(FF) Paper shredding and carpet and paper shearing, fabric brushing and sueding as well as associated conveying systems, baling equipment, and control equipment venting such equipment. This exemption does not include carpet and fabric recycling operations;
+
+(GG) Hammermills used exclusively to process aluminum and/or tin cans, and control equipment exclusively venting such equipment;
+
+(HH) Drop hammers or hydraulic presses for forging or metal working; or
+
+(II) Concrete application, and installation.
+
+(2) Type 2 changes include construction or modification for which the owner or operator is not required to obtain a permit or permit modification under OAR chapter 340, division 216, and where the construction or modification would:
+
+(a) Have emissions from any new, modified, or replaced device or activity, or any combination of devices or activities, of less than the SER defined in OAR 340-200-0020;
+
+(b) Not result in an increase of emissions from the source above any PSEL;
+
+(c) Not result in an increase of emissions from the source above the netting basis by more than or equal to the SER;
+
+(d) Not be used to establish a federally enforceable limit on the potential to emit;
+
+(e) Be used to establish a state-only enforceable limit on the potential to emit;
+
+(f) Not require a TACT determination under OAR 340-226-0130 or a MACT determination under OAR 340-244-0200; and
+
+(g) Not cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202 for a new or replaced device or activity.  
+
+(3) Type 3 changes include construction or modification where the construction or modification would:
+
+(a) Have emissions from any new, modified, or replaced device or activity, or any combination of devices or activities, of more than or equal to the SER defined in OAR 340-200-0020;
+
+(b) Result in an increase of emissions from the source above any PSEL before applying unassigned emissions or emissions reduction credits available to the source but less than the SER after applying unassigned emissions or emissions reduction credits available to the source;
+
+(c) Be used to establish a federally enforceable limit on the potential to emit;
+
+(d) Require a TACT determination under OAR 340-226-0130 or a MACT determination under 340-244-0200; or
+
+(e) Not cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202 for a new or replaced device or activity.
+
+(4) Type 4 changes include construction or modification subject to New Source Review under OAR chapter 340, division 224.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040 except for OAR 340-210-0225(2)(e).]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040, 468A.050, ORS 468A.055, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A.025, 468A.035, 468A.040, 468A.050, 468A.055, 468A.070 & 468A.310
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01, Renumbered from 340-210-0220
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-0820
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0030
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 5-1989, f. 4-24-89, cert. ef. 5-1-89
+DEQ 15, f. 6-12-70, ef. 9-1-70
+
+340-210-0230
+Notice of Construction and Approval of Plans: Notice to Construct Application
+
+(1) An application for any type of change must meet the requirements of the rules that were in effect on the date the complete application was submitted.
+
+(2) Any person proposing a Type 1 or 2 change must submit a notice of construction application using electronic forms provided by DEQ, unless otherwise approved in writing by DEQ and applicable fees in OAR 340-216-8020 to DEQ before undertaking such construction or modification. The notice of construction application must include the following information, as applicable, for present or anticipated operating conditions:
+
+(a) Name, address, tax lot, and nature of business;
+
+(b) Name of local person responsible for compliance with these rules;
+
+(c) Name of person authorized to receive requests for data and information;
+
+(d) The type of construction or modification as defined in OAR 340-210-0225;
+
+(e) A description of the proposed construction or modification;
+
+(f) A description of the production processes and a related flow chart for the proposed construction or modification;
+
+(g) A plot plan showing the location and height of the proposed construction or modification, and the nearest residential and commercial properties;
+
+(h) Production, throughput, or material usage;
+
+(i) Type and quantity of fuels used;
+
+(j) The amount, nature and duration of regulated pollutant emissions from the proposed construction or modification and any proposed change in emissions with supporting calculation, except for equipment listed in OAR 340-210-0225(1)(b);
+
+(k) Plans and specifications for air pollution control devices and facilities and their relationship to the production process, including estimated efficiency of air pollution control devices;
+
+(l) Any information on pollution prevention measures and cross-media impacts the owner or operator wants DEQ to consider in determining applicable control requirements and evaluating compliance methods;
+
+(m) A list of any requirements applicable to the construction or modification;
+
+(n) Where the operation or maintenance of air pollution control devices and emission reduction processes can be adjusted or varied from the highest reasonable efficiency and effectiveness, information necessary for DEQ to establish operational and maintenance requirements under OAR 340-226-0120(1) and (2);
+
+(o) Amount and method of refuse disposal;
+
+(p) Land Use Compatibility Statement(s) when required by OAR chapter 340, division 018:
+
+(A) Signed by the applicable local planning jurisdictions(s), determining that construction or modification is compatible with the applicable local planning jurisdiction’s acknowledged comprehensive plan. If DEQ receives a LUCS which states that the proposed action is incompatible with the acknowledged comprehensive plan, DEQ shall notify the applicant that the application cannot be processed; or
+
+(B) If the local planning jurisdiction declines to provide a LUCS determination in response to a request for a LUCS, the owner or operator must provide DEQ with its own analysis to demonstrate that the proposed action complies with all applicable statewide planning goals;
+
+(q) Anticipated date of the commencement of construction (i.e., breaking ground); and
+
+(r) Anticipated date of construction or modification completion.
+
+(3) In addition, any person proposing a Type 2 or Type 3 change for a new or replaced device or activity must also submit an air quality analysis for any pollutants that are emitted above the de minimis emission level demonstrating that the emissions, including reductions due to air pollution control devices or permitted limits on production capacity, from the individual device or activity will not cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202.
+
+(4) Any person proposing a Type 3 change must:
+
+(a) Submit an application for either a new or modified Basic ACDP, a Construction ACDP, a new or modified Simple ACDP, or a new or modified Standard ACDP, whichever is appropriate; or
+
+(b) If the owner or operator of a source assigned to a General ACDP still qualifies for the General ACDP after the Type 3 change is approved, submit the information required in OAR 340-210-0230(2).
+
+(5) Any person proposing a Type 4 change must comply with OAR chapter 340, division 224 and must submit an application for either a Construction ACDP, or a new or modified Standard ACDP, whichever is appropriate.
+
+(6) Additional information. If DEQ determines that additional information or corrections are needed for consideration of any type of proposed construction or modification, DEQ will provide the applicant with a written request to provide such information by a reasonable date.
+
+(7) If DEQ determines it is not able to approve the applicant’s submittal, or if the applicant does not timely provide additional information or corrections requested by DEQ under section (6), then in addition to any other remedies available, DEQ may:
+
+(a) Return the application;
+
+(b) Retain any applicable fees; and
+
+(c) Issue a proposed denial of the application.
+
+(8) A person who has submitted an application under this rule must notify DEQ of any corrections and revisions to the plans and specifications that would impact emissions upon becoming aware of the changes. If the correction or revision changes the type of Notice of Construction, the person must submit the appropriate application.
+
+(9) Where a permit issued in accordance with OAR chapter 340, divisions 216 or 218 includes construction approval for future changes for operational flexibility, the notice requirements in this rule are waived for the approved changes.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040, 468A.050, 468A.055, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A.025, 468A.035, 468A.040, 468A.050, 468A.055, 468A.070 & 468A.310
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 17-2020, amend filed 09/21/2020, effective 09/21/2020
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+
+340-210-0240
+Notice of Construction and Approval of Plans: Construction Approval
+
+(1) Approval to Construct:
+
+(a) For Type 1 changes:
+
+(A) Under OAR 230-210-0225(1)(b), the owner or operator of a source may proceed with the construction or modification immediately after notifying DEQ.
+
+(B) Under OAR 230-210-0225(1)(a), the owner or operator of a source may proceed with the construction or modification immediately after notifying DEQ unless they request confirmation that the proposed construction or modification qualifies as a Type 1 change. DEQ has 30 calendar days from receipt of the written request, with a complete notice application, to provide written approval of the proposed construction or modification, or notify the owner or operator in writing that the proposed construction or modification does not qualify as a Type 1 change.
+
+(b) For Type 2 changes, the owner or operator of a source may proceed with the construction or modification 60 calendar days after DEQ receives the complete notice application and fees required in OAR 340-210-0230 or on the date that DEQ approves the proposed construction or modification in writing, whichever is sooner, unless DEQ notifies the owner or operator in writing that the proposed construction or modification does not qualify as a Type 2 change.
+
+(c) For Type 3 changes, the owner or operator of a source must obtain either:
+
+(A) A new or modified Basic ACDP, Construction ACDP, a new or modified Simple ACDP, or a new or modified Standard ACDP, whichever is appropriate, in accordance with OAR chapter 340, division 216 before proceeding with the construction or modification; or
+
+(B) A new Simple or Standard ACDP, whichever is appropriate, in accordance with OAR chapter 340, division 216 before proceeding with the construction or modification if the source no longer qualifies for its assigned General ACDP(s).
+
+(d) For Type 4 changes, the owner or operator of a source must obtain either a Construction ACDP or a new or modified Standard ACDP in accordance with OAR chapter 340, division 216 before proceeding with the construction or modification.
+
+(2) Upon DEQ approval, the owner or operator of a source must construct or modify and operate the source in accordance with the approved plans and specifications, including any corrections or revisions approved by DEQ, previously submitted in the application required under OAR 340-210-0230.
+
+(3) Approval to construct or modify does not relieve the owner or operator of a source of the obligation of complying with applicable requirements.
+
+(4) The owner or operator of a source that receives approval to construct or modify must commence construction within 18 months of approval, or other date approved in writing by DEQ.
+
+(a) Construction or modification approval terminates and is invalid for the following reasons:
+
+(A) Construction or modification is not commenced within 18 months after DEQ issues such approval, by an alternative deadline established by DEQ under this section, or by the deadline approved by DEQ in an extension under subsection (b);
+
+(B) Construction or modification is discontinued for a period of 18 months or more; or
+
+(C) Construction or modification is not completed within 18 months of the anticipated date of construction completion included in the application.
+
+(b) The owner or operator may submit a request to extend the construction or modification commencement deadline by submitting a written, detailed explanation of why the source could not commence construction or modification within the initial 18-month period. DEQ may grant, for good cause, one 18-month construction or modification approval extension.
+
+(5) Notice of Completion. Unless otherwise specified in the Construction ACDP or approval, the owner or operator of a source must notify DEQ in writing that the construction or modification has been completed using a form furnished by DEQ. Unless otherwise specified, the notice is due 30 days after completing the construction or modification. The notice of completion must include the following:
+
+(a) The date of completion of construction or modification;
+
+(b) Whether the construction or modification was completed in accordance with approved plans, specifications and any corrections or revisions thereto under OAR 340-210-0230, such as but not limited to:
+
+(A) Make, model, and identification name or number of the constructed device or activity, or any combination of devices or activities;
+
+(B) Location of the constructed device or activity, or any combination of devices or activities;
+
+(C) Exhaust parameters (e.g., stack height, diameter, temperature, flowrate, volume or area source dimensions); and
+
+(c) The date the stationary source, device, activity, or air pollution control device was or will be put in operation.
+
+(6) Order Prohibiting Construction or Modification. If at any time, DEQ determines that the proposed construction is not in accordance with applicable statutes, rules, regulations, and orders, DEQ will issue an order prohibiting the construction or modification. The order prohibiting construction or modification will be forwarded to the owner or operator of the source by certified mail.
+
+(7) Hearing. An owner or operator of a source against whom an order prohibiting construction or modification is directed may request a contested case hearing within 20 days from the date of mailing the order. The request must be in writing, state the grounds for hearing, and be mailed to the Director of DEQ. The hearing will be conducted pursuant to the applicable provisions of ORS chapter 183 and OAR chapter 340, division 11.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040, 468A.050, 468A.055, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A. 025, 468A.035, 468A.040, 468A.050, 468A.055, 468A.070 & 468A.310
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 17-2020, amend filed 09/21/2020, effective 09/21/2020
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+
+340-210-0250
+Notice of Construction and Approval of Plans: Approval to Operate
+
+(1) The approval to construct does not provide approval to operate the constructed, modified, or replaced stationary source or air pollution control device unless otherwise allowed by section (2) or (3) or under the applicable ACDP (OAR chapter 340, division 216) or Oregon Title V Operating Permit programs (OAR chapter 340, division 218).
+
+(2) Type 1 and 2 changes:
+
+(a) For sources that are not required to obtain a permit in accordance with OAR 340-216-0020, Type 1 and 2 changes may be operated without further approval subject to the conditions of DEQ’s approval to construct provided in accordance with OAR 340-210-0240.
+
+(A) Approval to operate does not relieve the owner of the obligation of complying with applicable requirements that may include but are not limited to the general opacity standards in OAR 340-208-0110 and general particulate matter standards in OAR 340-226-0210 and OAR 340-228-0210.
+
+(B) If required by DEQ as a condition of the approval to construct or at any other time in accordance with OAR 340-212-0120, the owner or operator must conduct testing or monitoring to verify compliance with applicable requirements. All required testing must be performed in accordance with OAR 340-212-0140.
+
+(C) The owner or operator must register the air contaminant source with DEQ if required as a condition of the approval to construct or at any other time in accordance with OAR 340-210-0100.
+
+(b) For sources currently operating under an ACDP, Type 1 and 2 changes may be operated without further approval unless the ACDP specifically prohibits the operation.
+
+(c) For sources currently operating under an Oregon Title V Operating Permit, Type 1 and 2 changes may only be operated in accordance with OAR 340-218-0190(2).
+
+(3) Type 3 and 4 changes:
+
+(a) For new sources, or sources that have not been required to obtain a permit, Type 3 changes require the owner or operator to obtain a Construction, Basic, General, Simple, or Standard ACDP, whichever is appropriate, before operation of the approved changes.
+
+(b) For sources currently operating under a General ACDP, a Type 3 change may be operated under the assigned General ACDP if the source still qualifies for the General ACDP. Otherwise, the owner or operator must obtain a new Simple or Standard ACDP before operation of the approved changes.
+
+(c) For sources currently operating under a Basic, Simple or Standard ACDP, approval to operate a Type 3 change will require the owner or operator to obtain a new or modified Basic ACDP, a new or modified Simple ACDP, or a new or modified Standard ACDP, in accordance with OAR chapter 340, division 216 before operation of the approved changes. All current ACDP terms and conditions remain in effect until the new or modified ACDP is issued.
+
+(d) Type 4 changes require the owner or operator to obtain a new or modified Standard ACDP in accordance with OAR chapter 340, division 216 before operation of the approved changes.
+
+(e) For sources currently operating under an Oregon Title V Operating Permit, Type 3 or 4 changes may only be operated  in accordance with OAR 340-218-0190(2) unless a permit modification is required.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040, 468A.050, 468A.055, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A. 025, 468A.035, 468A.040, 468A.050, 468A.055, 468A.070 & 468A.310
+History:
+DEQ 2-2023, minor correction filed 03/01/2023, effective 03/01/2023
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 1-2012, f. & cert. ef. 5-17-12
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01

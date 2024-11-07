@@ -1,0 +1,503 @@
+Department of Environmental Quality
+Chapter 340
+Division 212
+STATIONARY SOURCE TESTING AND MONITORING
+340-212-0005
+Applicability and Jurisdiction
+
+(1) This division applies in all areas of the state.
+
+(2) Subject to the requirements in this division and OAR 340-200-0010(3), LRAPA is designated by the EQC to implement the rules in this division within its area of jurisdiction.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020 & 468A.050, 468A.055, 468A.070, 468A.135 & 468A.310
+Statutes/Other Implemented: ORS 468A.035, 468A.050, 468A.055, 468A.070, 468A.135 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+
+340-212-0010
+Definitions
+
+The definitions in OAR 340-200-0020, 340-204-0010 and this rule apply to this division. If the same term is defined in this rule and OAR 340-200-0020 or 340-204-0010, the definition in this rule applies to this division.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020 & 468A
+Statutes/Other Implemented: ORS 468A.025
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 14-1999, f. & cert. ef. 10-14-99
+
+340-212-0110
+Sampling, Testing and Measurement: Applicability
+
+OAR 340-212-0110 through 340-212-0150 apply to all stationary sources in the state. Stationary source includes portable sources that are required to have permits under division 216.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468A.050, 468A.055, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A.035, 468A.050, 468A.055, 468A.070 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-0900
+DEQ 22-1995, f. & cert. ef. 10-6-95
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93
+
+340-212-0120
+Sampling, Testing and Measurement: Program
+
+(1) As part of its coordinated program of air quality control and preventing and abating air pollution, DEQ may:
+
+(a) Require the owner or operator of a stationary source to determine the type, quantity, quality, and duration of the emissions from any air contamination source;
+
+(b) Require full reporting in writing of all test procedures and signed by the person or persons responsible for conducting the tests;
+
+(c) Require continuous monitoring of specified air contaminant emissions or parameters and periodic regular reporting of the results of such monitoring.
+
+(2) DEQ may require an owner or operator of a source to provide emission testing facilities as follows:
+
+(a) Sampling ports, safe sampling platforms, and access to sampling platforms adequate for test methods applicable to such source; and
+
+(b) Utilities for sampling and testing equipment.
+
+(3) Testing must be conducted in accordance with the DEQ Source Sampling Manual, the DEQ Continuous Monitoring Manual], or an applicable EPA Reference Method [NOTE: DEQ Manuals are pubished with OAR 340-200-0035; EPA Reference Methods are found at 40 C.F.R. Part 60, Appendix A], unless DEQ, if allowed under applicable federal requirements:
+
+(a) Specifies or approves minor changes in methodology in specific cases;
+
+(b) Approves the use of an equivalent or alternative method as defined in division 200;
+
+(c) Waives the testing requirement because the owner or operator has satisfied DEQ that the affected facility is in compliance with applicable requirements; or
+
+(d) Approves shorter sampling times and smaller sample volumes when necessitated by process variables or other factors.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468A.050, 468A.055, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A.035, 468A.050, 468A.055, 468A.070 & 468A.310
+History:
+DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1100
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020 0035
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 15, f. 6-12-70, cert. ef. 9-1-70
+
+340-212-0130
+Sampling, Testing and Measurement: Stack Heights and Dispersion Techniques
+
+(1) 40 CFR parts 51.100(ff) through 51.100(kk), and 51.118, 51.160 through 51.166, concerning stack heights and dispersion techniques, are adopted and incorporated herein. The federal rule generally prohibits the use of excessive stack height and certain dispersion techniques when calculating compliance with ambient air quality standards. The rule forbids neither the construction and actual use of excessively tall stacks, nor the use of dispersion techniques. It only forbids their use in noted calculations. The rule generally applies as follows. Stacks 65 meters high or greater that were constructed after December 31, 1970, and major modifications made after December 31, 1970 to existing plants with stacks 65 meters high or greater which were constructed before that date are subject to this rule. Certain stacks at federally owned, coal-fired steam electric generating units constructed under a contract awarded before February 8, 1974 are exempt. Any dispersion technique implemented after December 31, 1970 at any plant is subject to this rule. However, if the plant's total allowable emissions of sulfur dioxide are less than 5,000 tons per year, then certain dispersion techniques to increase final exhaust gas plume rise may be used when calculating compliance with ambient air quality standards for sulfur dioxide.
+
+(2) Where found in the federal rule, the following terms apply:
+
+(a) "Reviewing agency" means DEQ, LRAPA, or the EPA, as applicable;
+
+(b) "Authority administering the State Implementation Plan" means DEQ, LRAPA, or EPA;
+
+(c) The "procedures" referred to in 40 CFR 51.164 are the DEQ Major NSR procedures (OAR 340-224-0010 through 340-224-0070 and OAR 340-224-0500 through 340-224-0540 or Title 38 of LRAPA rules), and the review procedures for new, or modifications to, minor sources, at the DEQ review procedures for new or modified minor sources (OAR 340-210-0205 to 340-210-0250, OAR 340 division 216, OAR 340-224-0010 through 340-224-0038, OAR 340-224-0200 through 340-224-0270 and OAR 340-224-0500 through 340-224-0540, or LRAPA Title 34).
+
+(d) "The state" or "state, or local control agency" as referred to in 40 CFR 51.118, means DEQ or LRAPA;
+
+(e) "Applicable state implementation plan" and "plan" refer to the DEQ or LRAPA programs and rules, as approved by the EPA, or any regulations promulgated by EPA (see 40 CFR part 52, subpart MM).
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468A.050, 468A.055, 468A.070, 468A.135 & 468A.310
+Statutes/Other Implemented: ORS 468A.035, 468A.050, 468A.055, 468A.070, 468A.135 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1110
+DEQ 22-1995, f. & cert. ef. 10-6-95
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0037
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 11-1986, f. & ef. 5-12-86
+
+340-212-0140
+Sampling, Testing and Measurement: Methods
+
+(1) Any sampling, testing, or measurement performed pursuant to this division must conform to methods contained in the DEQ Source Sampling Manual or to recognized applicable standard methods approved in advance by DEQ. [NOTE: DEQ Manual is published with OAR 340-200-0035.]
+
+(2) DEQ may approve an equivalent or alternative method as defined in division 200.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468A.050, 468A.055, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A.035, 468A.050, 468A.055, 468A.070 & 468A.310
+History:
+DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019
+DEQ 7-2015, f. & cert. ef. 4-16-15
+Reverted to DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 7-2011(Temp), f. & cert. ef. 6-24-11 thru 12-19-11
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1120
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0040
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 15, f. 6-12-70, ef. 9-11-70
+
+340-212-0150
+Sampling, Testing and Measurement: Department Testing
+
+Instead of asking for tests and sampling of emissions from the owner or operator of a source, DEQ may conduct such tests alone or in conjunction with the owner or operator. If DEQ conducts the testing or sampling, the agency will provide a copy of the results to the owner or operator.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468A.050, 468A.055, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A.035, 468A.050, 468A.055, 468A.070 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1130
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0045
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 15, f. 6-12-70, ef. 9-1-70
+
+340-212-0200
+Compliance Assurance Monitoring: Purpose and Applicability
+
+(1) The purpose of OAR 340-212-0200 through 340-212-0280 is to require, as part of the issuance of a permit under Title V of the FCAA, improved or new monitoring at those emissions units where monitoring requirements do not exist or are inadequate to meet the requirements of 340-212-0200 through 340-212-0280. Except for backup utility units that are exempt under subsection (2)(b), the requirements of 340-212-0200 through 340-212-0280 apply to a regulated pollutant-specific emissions unit at a major source that is required to obtain an Oregon Title V Operating Permit if the unit meets all of the following criteria:
+
+(a) The unit is subject to an emission limitation or standard for the applicable regulated pollutant (or a surrogate thereof), other than an emission limitation or standard that is exempt under subsection (2)(a);
+
+(b) The unit uses a control device to achieve compliance with any such emission limitation or standard; and
+
+(c) The unit has potential pre-control device emissions of the applicable regulated pollutant that are equal to or greater than 100 percent of the amount, in tons per year, required for a source to be classified as a major source. For purposes of this subsection, "potential pre-control device emissions" has the same meaning as "potential to emit," as defined in 340-200-0020, except that emission reductions achieved by the applicable control device are not taken into account.
+
+(2) Exemptions:
+
+(a) Exempt emission limitations or standards. The requirements of OAR 340-212-0200 through 340-212-0280 do not apply to any of the following emission limitations or standards:
+
+(A) Emission limitations or standards proposed by the Administrator after November 15, 1990 pursuant to section 111 or 112 of the FCAA;
+
+(B) Stratospheric ozone protection requirements under title VI of the FCAA;
+
+(C) Acid Rain Program requirements pursuant to sections 404, 405, 406, 407(a), 407(b), or 410 of the FCAA;
+
+(D) Emission limitations or standards or other applicable requirements that apply solely under an emissions trading program approved or promulgated by the Administrator under the FCAA that allows for trading emissions within a source or between sources;
+
+(E) An emissions cap that meets the requirements specified in 40 CFR 70.4(b)(12), 71.6(a)(13)(iii), or OAR 340 division 222 (Stationary Source Plant Site Emission Limits);
+
+(F) Emission limitations or standards for which an Oregon Title V Operating Permit specifies a continuous compliance determination method, as defined in OAR 340-200-0020. The exemption does not apply if the applicable compliance method includes an assumed control device emission reduction factor that could be affected by the actual operation and maintenance of the control device. For example a certain surface coating line is controlled by an incinerator whose continuous compliance is determined by calculating emissions on the basis of coating records and an assumed control device efficiency factor based on an initial performance test. In this example, OAR 340-212-0200 through 212-0280 apply to the control device and capture system, but not to the remaining elements of the coating line, such as raw material usage.
+
+(b) Exemption for backup utility power emissions units. The requirements of OAR 340-212-0200 through 212-0280 do not apply to a utility unit, as defined in 40 CFR 72.2, that is municipally owned if the owner or operator provides documentation in an Oregon Title V Operating Permit application that:
+
+(A) The utility unit is exempt from all monitoring requirements in 40 CFR part 75, including the appendices thereto;
+
+(B) The utility unit is operated solely for providing electricity during periods of peak electrical demand or emergency situations and will be operated consistent with that purpose throughout the Oregon Title V Operating Permit term. The owner or operator must provide historical operating data and relevant contractual obligations to document that this criterion is satisfied; and
+
+(C) The actual emissions from the utility unit, based on the average annual emissions over the last three calendar years of operation, or such shorter time period that is available for units with fewer than three years of operation, are less than 50 percent of the amount in tons per year required for a source to be classified as a major source and are expected to remain so.
+
+Statutory/Other Authority: ORS 468.020 & 468A.310
+Statutes/Other Implemented: ORS 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1200
+DEQ 21-1998, f. & cert. ef. 10-14-98
+
+340-212-0210
+Compliance Assurance Monitoring: Monitoring Design Criteria
+
+(1) General criteria. To provide a reasonable assurance of compliance with emission limitations or standards for the anticipated range of operations at a regulated pollutant-specific emissions unit, monitoring under OAR 340-212-0200 through 340-212-0280 must meet the following general criteria:
+
+(a) The owner or operator must design the monitoring to obtain data for one or more indicators of emission control performance for the control device, any associated capture system and, if necessary to satisfy subsection (1)(b), processes at a regulated pollutant-specific emissions unit. Indicators of performance may include, but are not limited to, direct or predicted emissions, including visible emissions or opacity, process and control device parameters that affect control device and capture system efficiency or emission rates, or recorded findings of inspection and maintenance activities conducted by the owner or operator;
+
+(b) The owner or operator must establish an appropriate range or designated condition for the selected indicator such that operation within the ranges provides a reasonable assurance of ongoing compliance with emission limitations or standards for the anticipated range of operating conditions. Such range or condition must reflect the proper operation and maintenance of the control device and associated capture system, in accordance with applicable design properties, for minimizing emissions over the anticipated range of operating conditions at least to the level required to achieve compliance with the applicable requirements. The reasonable assurance of compliance will be assessed by maintaining performance within the indicator range or designated condition. The ranges must be established in accordance with the design and performance requirements in this rule and documented in accordance with the requirements in OAR 340-212-0220. If necessary to assure that the control device and associated capture system can satisfy this criterion, the owner or operator must monitor appropriate process operational parameters, such as total throughput where necessary to stay within the rated capacity for a control device. In addition, unless specifically stated otherwise by an applicable requirement, the owner or operator must monitor indicators to detect any bypass of the control device or capture system to the atmosphere, if such bypass can occur based on the design of the regulated pollutant-specific emissions unit;
+
+(c) The design of indicator ranges or designated conditions may be:
+
+(A) Based on a single maximum or minimum value if appropriate, e.g., maintaining condenser temperatures a certain number of degrees below the condensation temperature of the applicable compound being processed, or at multiple levels that are relevant to distinctly different operating conditions, e.g., high versus low load levels;
+
+(B) Expressed as a function of process variables, e.g., an indicator range expressed as minimum to maximum pressure drop across a venturi throat in a particulate control scrubber;
+
+(C) Expressed as maintaining the applicable parameter in a particular operational status or designated condition, e.g., position of a damper controlling gas flow to the atmosphere through a by-pass duct;
+
+(D) Established as interdependent between more than one indicator.
+
+(2) Performance criteria. The owner or operator must design the monitoring to meet the following performance criteria:
+
+(a) Specifications that provide for obtaining data that are representative of the emissions or parameters being monitored, such as detector location and installation specifications, if applicable;
+
+(b) For new or modified monitoring equipment, verification procedures to confirm the operational status of the monitoring prior to the date by which the owner or operator must conduct monitoring under OAR 340-212-0200 through 340-212-0280 as specified in OAR 340-212-0250(1). The owner or operator must consider the monitoring equipment manufacturer's requirements or recommendations for installation, calibration, and start-up operation;
+
+(c) Quality assurance and control practices that are adequate to ensure the continuing validity of the data. The owner or operator must consider manufacturer recommendations or requirements applicable to the monitoring in developing appropriate quality assurance and control practices;
+
+(d) Specifications for the frequency of the monitoring, the data collection procedures that will be used (e.g., computerized data acquisition and handling, alarm sensor, or manual log entries based on gauge readings), and, if applicable, the period over which discrete data points will be averaged for the purpose of determining whether an excursion or exceedance has occurred:
+
+(A) At a minimum, the owner or operator must design the period over which data are obtained and, if applicable, averaged consistent with the characteristics and typical variability of the regulated pollutant-specific emissions unit, including the control device and associated capture system. Such intervals must be commensurate with the time period over which a change in control device performance that would require actions by owner or operator to return operations within normal ranges or designated conditions is likely to be observed;
+
+(B) For all regulated pollutant-specific emissions units with the potential to emit, calculated including the effect of control devices, the applicable regulated pollutant in an amount equal to or greater than 100 percent of the amount, in tons per year, required for a source to be classified as a major source, for each parameter monitored, the owner or operator must collect four or more data values equally spaced over each hour and average the values, as applicable, over the applicable averaging period as determined in accordance with paragraph (2)(d)(A). DEQ may approve a reduced data collection frequency based on information presented by the owner or operator concerning the data collection mechanisms available for a particular parameter for the particular regulated pollutant-specific emissions unit, e.g., integrated raw material or fuel analysis data, noninstrumental measurement of waste feed rate or visible emissions, use of a portable analyzer or an alarm sensor;
+
+(C) For other regulated pollutant-specific emissions units, the frequency of data collection may be less than the frequency specified in paragraph (2)(d)(B), but the monitoring must include some data collection at least once per 24-hour period, e.g., a daily inspection of a carbon adsorber operation in conjunction with a weekly or monthly check of emissions with a portable analyzer.
+
+(3) Evaluation factors. In designing monitoring to meet the requirements in sections (1) and (2), the owner or operator must take into account site-specific factors including the applicability of existing monitoring equipment and procedures, the ability of the monitoring to account for process and control device operational variability, the reliability and latitude built into the control technology, and the level of actual emissions relative to the compliance limitation.
+
+(4) Special criteria for the use of continuous emission, opacity or predictive monitoring systems:
+
+(a) If a continuous emission monitoring system (CEMS), continuous opacity monitoring system (COMS), or predictive emission monitoring system (PEMS) is required by other authority under the FCAA or state or local law, the owner or operator must use such system to satisfy the requirements of OAR 340-212-0200 through 340-212-0280;
+
+(b) The use of a CEMS, COMS, or PEMS that satisfies any of the following monitoring requirements satisfies the general design criteria in sections (1) and (2). However, a COMS may be subject to the criteria for establishing indicator ranges under section (1):
+
+(A) Section 51.214 and Appendix P of 40 CFR part 51;
+
+(B) Section 60.13 and Appendix B of 40 CFR part 60;
+
+(C) Section 63.8 and any applicable performance specifications required pursuant to the applicable subpart of 40 CFR part 63;
+
+(D) 40 CFR part 75;
+
+(E) Subpart H and Appendix IX of 40 CFR part 266; or
+
+(F) If an applicable requirement does not otherwise require compliance with the requirements listed in paragraphs (4)(b)(A) through (E), comparable requirements and specifications established by DEQ.
+
+(c) The owner or operator must design the monitoring system subject to section (4) to:
+
+(A) Allow for reporting exceedances, or excursions if applicable to a COMS used to assure compliance with a particulate matter standard, consistent with any period for reporting of exceedances in an underlying requirement. If an underlying requirement does not contain a provision for establishing an averaging period for the reporting of exceedances or excursions, the criteria used to develop an averaging period in section (2)(d) applies; and
+
+(B) Provide an indicator range consistent with section (1) for a COMS used to assure compliance with a particulate matter standard. If an opacity standard applies to the regulated pollutant-specific emissions unit, such limit may be used as the appropriate indicator range unless the opacity limit fails to meet the criteria in section (1) after considering the type of control device and other site-specific factors applicable to the regulated pollutant-specific emissions unit.
+
+Statutory/Other Authority: ORS 468.020 & 468A.310
+Statutes/Other Implemented: ORS 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1210
+DEQ 21-1998, f. & cert. ef. 10-14-98
+
+340-212-0220
+Compliance Assurance Monitoring: Submittal Requirements
+
+(1) The owner or operator must submit to DEQ monitoring plans that satisfy the design requirements in OAR 340-212-0210. The submission must include the following information:
+
+(a) The indicators to be monitored to satisfy OAR 340-212-0210(1)(a) and (b);
+
+(b) The ranges or designated conditions for such indicators, or the process by which such indicator ranges or designated conditions will be established;
+
+(c) The performance criteria for the monitoring to satisfy OAR 340-212-0210(2); and
+
+(d) If applicable, the indicator ranges and performance criteria for a CEMS, COMS or PEMS pursuant to OAR 340-212-0210(4).
+
+(2) As part of the information submitted, the owner or operator must submit a justification for the proposed elements of the monitoring plans. If the performance specifications proposed to satisfy OAR 340-212-0210(2)(b) or (c) include differences from manufacturer recommendations, the owner or operator must explain the reasons for the differences. The owner or operator also must submit any data supporting the justification and may refer to generally available sources of information used to support the justification, such as generally available air pollution engineering manuals, or EPA or DEQ publications on appropriate monitoring for various types of control devices or capture systems. To justify the appropriateness of the monitoring elements proposed, the owner or operator may rely in part on existing applicable requirements that establish the monitoring for the applicable regulated pollutant-specific emissions unit or a similar unit. If an owner or operator relies on presumptively acceptable monitoring, no further justification for the appropriateness of that monitoring should be necessary other than an explanation of the applicability of such monitoring to the unit in question, unless data or information is brought forward to rebut the assumption. Presumptively acceptable monitoring includes:
+
+(a) Presumptively acceptable or required monitoring approaches, established by DEQ in a rule that constitutes part of the applicable implementation plan required pursuant to title I of the FCAA, that are designed to achieve compliance with OAR 340-212-0200 through 340-212-0280 for particular regulated pollutant-specific emissions units;
+
+(b) Continuous emission, opacity, or predictive emission monitoring systems that satisfy applicable monitoring requirements and performance specifications contained in OAR 340-212-0210(d);
+
+(c) Excepted or alternative monitoring methods allowed or approved pursuant to 40 CFR part 75;
+
+(d) Monitoring included for standards exempt from OAR 340-212-0200 through 340-212-0280 pursuant to OAR 340-212-0200(2)(a)(A) through (F) to the extent such monitoring is applicable to the performance of the control device and associated capture system for the regulated pollutant-specific emissions unit; and
+
+(e) Presumptively acceptable monitoring methods identified in guidance by EPA.
+
+(3)(a) Except as provided in section (4), the owner or operator must submit control device and process and capture system, if applicable, operating parameter data obtained during the conduct of the applicable compliance or performance test conducted under conditions specified by the applicable rule. If the applicable rule does not specify testing conditions or only partially specifies test conditions, the performance test generally must be conducted under conditions representative of maximum emissions potential under anticipated operating conditions at the regulated pollutant-specific emissions unit. Such data may be supplemented by engineering assessments and manufacturer's recommendations to justify the indicator ranges or, if applicable, the procedures for establishing such indicator ranges. Emission testing is not required to be conducted over the entire indicator range or range of potential emissions;
+
+(b) The owner or operator must document that no changes to the regulated pollutant-specific emissions unit, including the control device and capture system, have taken place that could result in a significant change in the control system performance or the selected ranges or designated conditions for the indicators to be monitored since the performance or compliance tests were conducted.
+
+(4) If existing data from unit-specific compliance or performance testing specified in section (3) are unavailable, the owner or operator:
+
+(a) Must submit a test plan and schedule for obtaining such data in accordance with section (5); or
+
+(b) May submit indicator ranges, or procedures for establishing indicator ranges, that rely on engineering assessments and other data, if the owner or operator demonstrates that factors specific to the type of monitoring, control device, or regulated pollutant-specific emissions unit make compliance or performance testing unnecessary to establish indicator ranges at levels that satisfy the criteria in OAR 340-212-0210(1).
+
+(5) If the monitoring plans submitted by the owner or operator require installation, testing, or other necessary activities before conducting the monitoring for purposes of OAR 340-212-0200 through 340-212-0280, the owner or operator must include an implementation plan and schedule for installing, testing and performing any other appropriate activities before conducting the monitoring. The implementation plan and schedule must provide for conducting the monitoring as expeditiously as practicable after DEQ approves the monitoring plans in the Oregon Title V Operating Permit pursuant to OAR 340-212-0240. In no case may the schedule for completing installation and beginning operation of the monitoring exceed 180 days after approval of the permit.
+
+(6) If a control device is common to more than one regulated pollutant-specific emissions unit, the owner or operator may submit monitoring plans for the control device and identify the regulated pollutant-specific emissions units affected and any process or associated capture device conditions that must be maintained or monitored in accordance with OAR 340-212-0210(1) rather than submit separate monitoring plans for each regulated pollutant-specific emissions unit.
+
+(7) If a single regulated pollutant-specific emissions unit is controlled by more than one control device that is similar in design and operation, the owner or operator may submit monitoring plans that apply to all the control devices and identify the control devices affected and any process or associated capture device conditions that must be maintained or monitored in accordance with OAR 340-212-0210(1) rather than submit a separate description for each control device.
+
+[NOTE: Publications referenced are available from the agency.]
+
+Statutory/Other Authority: ORS 468.020 & 468A.310
+Statutes/Other Implemented: ORS 468A.310
+History:
+DEQ 13-2019, amend filed 05/16/2019, effective 05/16/2019
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1220
+DEQ 21-1998, f. & cert. ef. 10-14-98
+
+340-212-0230
+Compliance Assurance Monitoring: Deadlines for Submittals
+
+(1) Large regulated pollutant-specific emissions units. For all regulated pollutant-specific emissions units with the potential to emit the applicable regulated pollutant in an amount equal to or greater than 100 percent of the amount, in tons per year, required for a source to be classified as a major source, the owner or operator must submit the information required under OAR 340-212-0220 at the following times:
+
+(a) The owner or operator must submit information as part of an application for an initial Oregon Title V Operating Permit if, by that date, the application either:
+
+(A) Has not been filed; or
+
+(B) Has not yet been determined to be complete by DEQ.
+
+(b) The owner or operator must submit information as part of an application for a significant permit revision under OAR 340-218-0080, but only with respect to those regulated pollutant-specific emissions units for which the proposed permit revision applies;
+
+(c) The owner or operator must submit any information not submitted under the deadlines set forth in subsections (1)(a) and (b) as part of the application for the renewal of an Oregon Title V Operating Permit.
+
+(2) Other regulated pollutant-specific emissions units. For all other regulated pollutant-specific emissions units subject to OAR 340-212-0220 through 340-212-0280 and not subject to section (1), the owner or operator must submit the information required under 340-212-0220 as part of an application for a renewal of an Oregon Title V Operating Permit.
+
+(3) A permit reopening to require the submittal of information under this rule is not required by OAR 340-218-0200(1)(a)(A). If, however, an Oregon Title V Operating Permit is reopened for cause by EPA or DEQ pursuant to OAR 340-218-0200(1)(a)(C), (D), or (E), the applicable agency may require the submittal of information under this rule for those regulated pollutant-specific emissions units that are subject to OAR 340-212-0200 through 340-212-0280 and that are affected by the permit reopening.
+
+(4) Until DEQ approves monitoring plans that satisfy the requirements of OAR 340-212-0200 through 340-212-0280, the owner or operator is subject to the requirements of OAR 340-218-0050(3)(a)(C).
+
+Statutory/Other Authority: ORS 468.020 & 468A.310
+Statutes/Other Implemented: ORS 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1230
+DEQ 21-1998, f. & cert. ef. 10-14-98
+
+340-212-0240
+Compliance Assurance Monitoring: Approval of Monitoring Plans
+
+(1) Based on an application that includes the information submitted in accordance with OAR 340-212-0230, DEQ will approve the monitoring plans submitted by the owner or operator by confirming that the plans satisfy the requirements in OAR 340-212-0210.
+
+(2) DEQ may condition its approval on the owner or operator collecting additional data on the indicators to be monitored for a regulated pollutant-specific emissions unit, including required compliance or performance testing, to confirm that the monitoring will provide data sufficient to satisfy the requirements of OAR 340-212-0200 through 340-212-0280 and to confirm the appropriateness of an indicator range or designated condition proposed to satisfy OAR 340-212-0210(1)(b) and (c) and consistent with the schedule in OAR 340-212-0220(4).
+
+(3) If DEQ approves the proposed monitoring, DEQ will establish one or more permit terms or conditions that specify the required monitoring in accordance with OAR 340-218-0050(3)(a). At a minimum, the permit will specify:
+
+(a) The approved monitoring approach that includes all of the following:
+
+(A) The indicator to be monitored (such as temperature, pressure drop, emissions, or similar parameter);
+
+(B) The means or device to be used to measure the indicator (such as temperature measurement device, visual observation, or CEMS); and
+
+(C) The performance requirements established to satisfy OAR 340-212-0210(2) or (4), as applicable.
+
+(b) The means by which the owner or operator will define an exceedance or excursion for purposes of responding to and reporting exceedances or excursions under OAR 340-212-0250 and 340-212-0260. The permit will specify the level at which an excursion or exceedance will be deemed to occur, including the appropriate averaging period associated with such exceedance or excursion. For defining an excursion from an indicator range or designated condition, the permit may either include the specific value or condition at which an excursion occurs, or the specific procedures that will be used to establish that value or condition. If the latter, the permit will specify appropriate notice procedures for the owner or operator to notify DEQ upon any establishment or reestablishment of the value;
+
+(c) The obligation to conduct the monitoring and fulfill the other obligations specified in OAR 340-212-0250 through 340-212-0270;
+
+(d) If appropriate, a minimum data availability requirement for valid data collection for each averaging period, and, if appropriate, a minimum data availability requirement for the averaging periods in a reporting period.
+
+(4) If the monitoring proposed by the owner or operator requires installation, testing or final verification of operational status, the Oregon Title V Operating Permit will include an enforceable schedule with appropriate milestones for completing such installation, testing, or final verification consistent with the requirements in OAR 340-212-0220(5).
+
+(5) If DEQ disapproves the proposed monitoring, the following applies:
+
+(a) The draft or final permit will include, at a minimum, monitoring that satisfies the requirements of OAR 340-218-0050(3)(a)(C);
+
+(b) The draft or final permit will include a compliance schedule for the owner or operator to submit monitoring plans that satisfy OAR 340-212-0210 and OAR 340-212-0220. In no case may the owner or operator submit revised monitoring more than 180 days from the date of issuance of the draft or final permit; and
+
+(c) If the owner or operator does not submit the monitoring plans in accordance with the compliance schedule contained in the draft or final permit or if DEQ disapproves the proposed monitoring plans, the owner or operator is not in compliance with OAR 340-212-0200 through 340-212-0280, unless the source owner or operator successfully challenges the disapproval.
+
+Statutory/Other Authority: ORS 468.020 & 468A.310
+Statutes/Other Implemented: ORS 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1240
+DEQ 21-1998, f. & cert. ef. 10-14-98
+
+340-212-0250
+Compliance Assurance Monitoring: Operation of Approved Monitoring
+
+(1) Commencement of operation. The owner or operator must conduct the monitoring required under OAR 340-212-0200 through 340-212-0280 upon issuance of an Oregon Title V Operating Permit that includes such monitoring, or by any later date specified in the permit pursuant to 340-212-0240(4).
+
+(2) Proper maintenance. The owner or operator must at all times maintain the monitoring equipment, including but not limited to, maintaining necessary parts for routine repairs of the monitoring equipment.
+
+(3) Continued operation. Except for monitoring malfunctions, associated repairs, and required quality assurance or control activities including, as applicable, calibration checks and required zero and span adjustments, the owner or operator must conduct all monitoring in continuous operation, or must collect data at all required intervals, at all times that the regulated pollutant-specific emissions unit is operating. Data recorded during monitoring malfunctions, associated repairs, and required quality assurance or control activities cannot be used for purposes of OAR 340-212-0200 through 340-212-0280, including data averages and calculations, or fulfilling a minimum data availability requirement, if applicable. The owner or operator must use all the data collected during all other periods in assessing the operation of the control device and associated control system. A monitoring malfunction is any sudden, infrequent, not reasonably preventable failure of the monitoring to provide valid data. Monitoring failures that are caused in part by poor maintenance or careless operation are not malfunctions.
+
+(4) Response to excursions or exceedances:
+
+(a) Upon detecting an excursion or exceedance, the owner or operator must restore operation of the regulated pollutant-specific emissions unit, including the control device and associated capture system, to its normal or usual manner of operation as expeditiously as practicable in accordance with good air pollution control practices for minimizing emissions. The response must include minimizing the period of any startup, shutdown or malfunction and taking any necessary corrective actions to restore normal operation and prevent the likely recurrence of the cause of an excursion or exceedance, other than those caused by excused startup or shutdown conditions. Such actions may include initial inspection and evaluation, recording that operations returned to normal without operator action, such as through response by a computerized distribution control system, or any necessary follow-up actions to return operation to within the indicator range, designated condition, or below the applicable emission limitation or standard, as applicable;
+
+(b) Determination of whether the owner or operator has used acceptable procedures in response to an excursion or exceedance will be based on information available, which may include but is not limited to, monitoring results, review of operation and maintenance procedures and records, and inspection of the control device, associated capture system, and the process;
+
+(c) Documentation of need for improved monitoring. After DEQ approves the monitoring plans under OAR 340-212-0200 through 340-212-0280, if the owner or operator identifies a failure to achieve compliance with an emission limitation or standard for which the approved monitoring did not indicate an excursion or exceedance while providing valid data, or if the results of compliance or performance testing document a need to modify the existing indicator ranges or designated conditions, the owner or operator must promptly notify DEQ and, if necessary, submit a proposed modification to the Oregon Title V Operating Permit to address the necessary monitoring changes. Such a modification may include, but is not limited to, reestablishing indicator ranges or designated conditions, modifying the frequency of conducting monitoring and collecting data, or the monitoring of additional parameters.
+
+Statutory/Other Authority: ORS 468.020 & 468A.310
+Statutes/Other Implemented: ORS 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1250
+DEQ 21-1998, f. & cert. ef. 10-14-98
+
+340-212-0260
+Compliance Assurance Monitoring: Quality Improvement Plan (QIP) Requirements
+
+(1) Based on the results of a determination made under OAR 340-212-0250(4)(b), the Administrator or DEQ may require the owner or operator to develop and implement a QIP. Consistent with 340-212-0240(3)(c), the Oregon Title V Operating Permit may specify an appropriate threshold, such as an accumulation of exceedances or excursions exceeding 5 percent duration of a regulated pollutant-specific emissions unit's operating time for a reporting period, for requiring the implementation of a QIP. The threshold may be set at a higher or lower percent or may rely on other criteria for purposes of indicating whether a regulated pollutant-specific emissions unit is being maintained and operated in a manner consistent with good air pollution control practices.
+
+(2) Elements of a QIP:
+
+(a) The owner or operator must maintain a written QIP, if required, and have it available for inspection;
+
+(b) The plan initially must include procedures for evaluating the control performance problems and, based on the results of the evaluation procedures, the owner or operator must modify the plan to include procedures for conducting one or more of the following actions, as appropriate:
+
+(A) Improved preventive maintenance practices;
+
+(B) Process operation changes;
+
+(C) Appropriate improvements to control methods;
+
+(D) Other steps appropriate to correct control performance;
+
+(E) More frequent or improved monitoring, only in conjunction with one or more steps under paragraphs (A) through (D) above.
+
+(3) If a QIP is required, the owner or operator must develop and implement a QIP as expeditiously as practicable and notify DEQ if the period for completing the improvements contained in the QIP exceeds 180 days from the date on which the need to implement the QIP was determined.
+
+(4) Following implementation of a QIP, upon any subsequent determination pursuant to OAR 340-212-0250(4)(b) the Administrator or DEQ may require that an owner or operator make reasonable changes to the QIP if the QIP is found to have:
+
+(a) Failed to address the cause of the control device performance problems; or
+
+(b) Failed to provide adequate procedures for correcting control device performance problems as expeditiously as practicable in accordance with good air pollution control practices for minimizing emissions.
+
+(5) Implementation of a QIP does not excuse the owner or operator of a source from compliance with any existing emission limitation or standard, or any existing monitoring, testing, reporting or recordkeeping requirement that may apply under federal, state, or local law, or any other applicable requirements under the FCAA.
+
+Statutory/Other Authority: ORS 468.020 & 468A.310
+Statutes/Other Implemented: ORS 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1260
+DEQ 21-1998, f. & cert. ef. 10-14-98
+
+340-212-0270
+Compliance Assurance Monitoring: Reporting and Recordkeeping Requirements
+
+(1) General reporting requirements:
+
+(a) On and after the date specified in OAR 340-212-0250(1) by which the owner or operator must conduct monitoring that meets the requirements of 340-212-0200 through 340-212-0280, the owner or operator must submit monitoring reports to DEQ in accordance with 340-218-0050(3)(c);
+
+(b) A report for monitoring under OAR 340-212-0200 through 340-218-0280 must include, at a minimum, the information required under 340-218-0050(3)(c) and the following information, as applicable:
+
+(A) Summary information on the number, duration and cause, including unknown cause, of excursions or exceedances, as applicable, and the corrective actions taken;
+
+(B) Summary information on the number, duration and cause, including unknown cause, for monitor downtime incidents, other than downtime associated with zero and span or other daily calibration checks; and
+
+(C) A description of the actions taken to implement a QIP during the reporting period as specified in OAR 340-212-0260. Upon completion of a QIP, the owner or operator must include in the next summary report documentation that the implementation of the plan has been completed and has reduced the likelihood of similar levels of excursions or exceedances occurring.
+
+(2) General recordkeeping requirements:
+
+(a) The owner or operator must comply with the recordkeeping requirements specified in OAR 340-218-0050(3)(b). The owner or operator must maintain records of monitoring data, performance data, corrective actions taken, any written quality improvement plan required pursuant to 340-212-0260 and any activities undertaken to implement a quality improvement plan, and other supporting information required by 340-212-0200 through 340-212-0280, such as data used to document the adequacy of monitoring, or records of monitoring maintenance or corrective actions;
+
+(b) Instead of paper records, the owner or operator may maintain records on alternative media, such as microfilm, computer files, magnetic tape disks, or microfiche, if the use of such alternative media allows for expeditious inspection and review and does not conflict with other applicable recordkeeping requirements.
+
+Statutory/Other Authority: ORS 468.020 & 468A.310
+Statutes/Other Implemented: ORS 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1270
+DEQ 21-1998, f. & cert. ef. 10-14-98
+
+340-212-0280
+Compliance Assurance Monitoring: Savings Provisions
+
+Nothing in OAR 340-212-0200 through 340-212-0280:
+
+(1) Excuses the owner or operator of a source from complying with any existing emission limitation or standard, or with any existing monitoring, testing, reporting, or recordkeeping requirement that may apply under federal, state, or local law, or any other applicable requirements under the FCAA. The requirements of OAR 340-212-0200 through 340-212-0280 may not be used to justify the approval of monitoring less stringent than the monitoring required under separate legal authority. Nor are they intended to establish minimum requirements for the purpose of determining the monitoring to be imposed under separate authority under the FCAA, including monitoring in permits issued pursuant to title I of the FCAA.
+
+(2) Restricts or abrogates the authority of the Administrator or DEQ to impose additional or more stringent monitoring, recordkeeping, testing, or reporting requirements on any owner or operator of a source under any provision of the FCAA, including but not limited to sections 114(a)(1) and 504(b), or state law, as applicable;
+
+(3) Restricts or abrogates the authority of the Administrator or DEQ to take any enforcement action under the FCAA for any violation of an applicable requirement or of any person to take action under section 304 of the FCAA.
+
+Statutory/Other Authority: ORS 468.020 & 468A.310
+Statutes/Other Implemented: ORS 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1280
+DEQ 21-1998, f. & cert. ef. 10-14-98

@@ -1,0 +1,513 @@
+Department of Environmental Quality
+Chapter 340
+Division 214
+STATIONARY SOURCE REPORTING REQUIREMENTS
+340-214-0005
+Applicability and Jurisdiction
+
+(1) This division applies in all areas of the state.
+
+(2) Subject to the requirements in this division and OAR 340-200-0010(3), LRAPA is designated by the EQC to implement the rules in this division within its area of jurisdiction.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468A.050 & 468A.135
+Statutes/Other Implemented: ORS 468A.025, 468A.050 & 468A.135
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+
+340-214-0010
+Definitions
+
+The definitions in OAR 340-200-0020, 340-204-0010 and this rule apply to this division. If the same term is defined in this rule and 340-200-0020 or 340-204-0010, the definition in this rule applies to this division.
+
+(1) "Large source", as used in OAR 340-214-0300 through 340-214-0350, means any stationary source required to maintain a Title V Operating Permit or whose actual emissions or potential controlled emissions while operating full time at the design capacity are equal to or exceed 100 tons per year of any regulated pollutant other than GHG.
+
+(2) "Small source" means any other stationary source that is not a large source and that operates under a basic, general, simple or standard ACDP.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020 & 468A
+Statutes/Other Implemented: ORS 468A.025 & 468A.050
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99
+
+340-214-0100
+Reporting: Applicability
+
+OAR 340-214-0100 through 340-214-0130 apply to all stationary sources in the state. Stationary source includes portable sources that are required to have permits under division 216.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020 & 468A.050
+Statutes/Other Implemented: ORS 468A.025 & 468A.050
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-0200
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93
+
+340-214-0110
+Reporting: Request for Information
+
+All owners or operators of stationary sources must provide any and all information and analysis, including an air quality analysis of the source, that DEQ reasonably requires for the purpose of regulating stationary sources. DEQ will provide the source with a written request to provide such information to DEQ by a reasonable date. Such information may be required on a one-time, periodic, or continuous basis and may include, but is not limited to, information necessary to:
+
+(1) Issue a permit and ascertain compliance or noncompliance with the permit terms and conditions;
+
+(2) Ascertain applicability of any requirement;
+
+(3) Ascertain compliance or noncompliance with any applicable requirement;
+
+(4) Determine whether a source’s emissions may cause or contribute to a new exceedance of a National Ambient Air Quality Standard adopted under OAR chapter 340, division 202; and
+
+(5) Incorporate monitoring, recordkeeping, reporting, and compliance certification requirements into a permit.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020 & 468A
+Statutes/Other Implemented: ORS 468A.025 & 468A.050
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-0300
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93
+
+340-214-0114
+Reporting: Records; Maintaining and Reporting
+
+(1) When notified by DEQ, any person owning or operating a source within the state must keep and maintain written records of the nature, type, and amounts of emissions from such source and other information DEQ may require in order to determine whether the source is in compliance with applicable emission rules, limitations, or control measures.
+
+(2) The records must be prepared in the form of a report and submitted to DEQ on an annual, semi-annual, or more frequent basis, as requested in writing by DEQ. Submittals must be filed at the end of the first full period after DEQ’s notification to such persons owning or operating a stationary air contaminant source of these recordkeeping requirements. Unless otherwise required by rule or permit, semi-annual periods are Jan. 1 to June 30, and July 1 to Dec. 31. A more frequent basis for reporting may be required due to noncompliance or if necessary to protect human health or the environment.
+
+(3) The required reports must be completed on forms approved by DEQ and submitted within 30 days after the end of the reporting period, unless otherwise authorized by permit.
+
+(4) When a due date for submittal falls on a weekend or holiday, the submittal is not due until the next succeeding business day.
+
+(5) All reports and certifications submitted to DEQ under OAR chapter 340, division 200 through division 271 must accurately reflect the monitoring, record keeping and other documentation held or performed by the owner or operator.
+
+(6) The owner or operator of any source required to obtain a permit under OAR chapter 340, division 216 or 218 must retain records of all required monitoring data and supporting information for a period of at least five years from the date of the monitoring sample, measurement, report, or application.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468A.050 & 468A.310
+Statutes/Other Implemented: ORS 468A.025, 468A.050 & 468A.310
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01, Renumbered from 340-212-0160
+DEQ14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1140
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0046
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 48, f. 9-20-72, cert. ef. 10-1-72
+DEQ 44(Temp), f. & cert. ef. 5-5-72
+
+340-214-0120
+Reporting: Enforcement
+
+Notwithstanding any other provisions contained in any applicable requirement, any credible evidence may be used for the purpose of establishing whether a person has violated or is in violation of any such applicable requirements.
+
+Statutory/Other Authority: ORS 468.035
+Statutes/Other Implemented: ORS 468.100
+History:
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-0310
+DEQ 21-1998, f. & cert. ef. 10-14-98
+
+340-214-0130
+Reporting: Information Exempt from Disclosure
+
+(1) Pursuant to the provisions of ORS 192.311 to 192.478, all information submitted to DEQ is subject to inspection upon request by any person unless such information is determined to be exempt from disclosure pursuant to section (2) or (3).
+
+(2) If an owner or operator claims that any writing, as that term is defined in ORS 192.311, is confidential or otherwise exempt from disclosure, in whole or in part, the owner or operator must comply with the following procedures:
+
+(a) The writing must be clearly marked with a request for exemption from disclosure. For a multi-page writing, each page must be so marked.
+
+(b) The owner or operator must state the specific statutory provision under which it claims exemption from disclosure and explain why the writing meets the requirements of that provision.
+
+(c) For writings that contain both exempt and non-exempt material, the proposed exempt material must be clearly distinguishable from the non-exempt material. If possible, the exempt material must be arranged so that it is placed on separate pages from the non-exempt material.
+
+(3) For a writing to be considered exempt from disclosure as a “trade secret,” it must meet all of the following criteria:
+
+(a) The information cannot be patented;
+
+(b) It must be known only to a limited number of individuals within a commercial concern who have made efforts to maintain the secrecy of the information;
+
+(c) It must be information that derives actual or potential economic value from not being disclosed to other persons;
+
+(d) It must give its users the chance to obtain a business advantage over competitors not having the information; and
+
+(e) It must not be emissions data.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 192.430, 468.020 & 468A.050
+Statutes/Other Implemented: ORS 192.410 - 192.505, 468.020, 468A.025 & 468A.050
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-0400
+DEQ 22-1996, f. & cert. ef. 10-22-96
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93
+
+340-214-0200
+Emission Statements for VOC and NOx Sources: Purpose and Applicability
+
+(1) The purpose of these rules is to obtain data on actual emissions of VOCs and NOx from sources in ozone nonattainment areas, in accordance with FCAA requirements, for the purpose of monitoring progress toward attainment of the ozone ambient air quality standards.
+
+(2) OAR 340-214-0200 through 340-214-0220 apply to sources of VOC and NOx in ozone nonattainment areas that have a PSEL equal to or greater than 25 tons per year for either regulated pollutant, or whose actual emissions are equal to or greater than 25 tons per year for either regulated pollutant.
+
+(3) For purposes of establishing consistent emission reporting requirements, owners or operators of VOC and NOx sources already subject to Oregon Title V Operating Permit Fees, OAR 340 division 220, and electing to pay fees based on actual emissions must report emission data to DEQ, utilizing procedures identified in those rules to calculate actual VOC and NOx emissions, to the extent applicable. Owners or operators of other sources must use current and applicable emission factors and actual production data to estimate and report actual emissions.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468A.050, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A.050, 468A.070 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1500
+DEQ 22-1995, f. & cert. ef. 10-6-95
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0450
+DEQ 27-1992, f. & cert. ef. 11-12-92
+
+340-214-0210
+Emission Statements for VOC and NOx Sources: Requirements
+
+(1) Owners or operators of VOC and NOx sources subject to the requirements of OAR 340-214-0200 through 340-214-0220 must submit data annually on the average actual emissions during the ozone season to DEQ. These Emission Statements must contain the following information:
+
+(a) Certification that the information contained in the statement is accurate to the best of the certifying individual’s knowledge;
+
+(b) Source identification information: full name, physical location, mailing address of the facility, and permit number; and
+
+(c) Emissions information:
+
+(A) The VOC and NOx actual emissions on an average operating day basis during the preceding year’s ozone season, by source category. For the purpose of this requirement, actual emissions include, but are not limited to routine process emissions, fugitive emissions, excess emissions from maintenance, startups and shutdowns, equipment malfunction, and other activities; and
+
+(B) Each emission factor used and the reference source for the emission factor, if applicable, or an explanation of any other method or procedure used to calculate emissions, e.g., material balance, source test, or continuous monitoring.
+
+(2) Owners or operators of sources subject to these rules must keep at the plant site records of the information used to calculate actual emissions pursuant to these rules. These records must contain all applicable operating data, process rate data, control device efficiency information, and other information used to calculate or estimate actual emissions. The information must be available for DEQ’s review or submitted upon request. Such records must be kept by the owner or operator for three years after the date of the submittal of the emission statement.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468A.050, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A.050, 468A.070 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1510
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0470
+DEQ 27-1992, f. & cert. ef. 11-12-92
+
+340-214-0220
+Emission Statements for VOC and NOx Sources: Submission of Emission Statement
+
+The owner or operator of any facility meeting the applicability requirements stated in OAR 340-214-0200 must submit annual Emission Statements to DEQ. The Emission Statement for the preceding calendar year is due to DEQ no later than the due date for the annual permit report specified in the source’s ACDP or Oregon Title V Operating Permit.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020 & 468A.050, 468A.070 & 468A.310
+Statutes/Other Implemented: ORS 468A.050, 468A.070 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1520
+DEQ 22-1995, f. & cert. ef. 10-6-95
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0480
+DEQ 27-1992, f. & cert. ef. 11-12-92
+
+340-214-0300
+Excess Emissions and Emergency Provision: Purpose and Applicability
+
+Emissions of air contaminants in excess of applicable standards or permit conditions are unauthorized and subject to enforcement action. OAR 340-214-0300 through 340-214-0360 apply to any source that emits air contaminants in excess of any applicable air quality rule or permit condition, including but not limited to excess emissions resulting from the breakdown of air pollution control devices or operating equipment, process upset, startup, shutdown, or scheduled maintenance. Sources that do not emit air contaminants in excess of any applicable air quality rule or permit condition are not subject to the recordkeeping and reporting requirements in 340-214-0300 through 340-214-0360. Emissions in excess of applicable standards are not excess emissions if the standard is in an NSPS or NESHAP and the NSPS or NESHAP exempts startups, shutdowns and malfunctions as defined in the applicable NSPS or NESHAP. The purpose of these rules is to:
+
+(1) Require that, where applicable, the owner or operator immediately report all excess emissions to DEQ;
+
+(2) Require the owner or operator to submit information and data regarding conditions that resulted or could result in excess emissions;
+
+(3) Identify criteria for DEQ to use in determining whether it will take enforcement action against an owner or operator for an excess emission; and
+
+(4) Provide owners and operators of sources with Oregon Title V Operating Permits an affirmative defense to a penalty action when noncompliance with technology-based emission limits is due to an emergency, as provided in OAR 340-214-0360.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468A.050 & 468A.310
+Statutes/Other Implemented: ORS 468A.050 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1400
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0350
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 42-1990, f. 12-13-90, cert. ef. 1-2-91, Renumbered from 340-021-0065
+DEQ 37, f. 2-15-72, ef. 3-1-72
+
+340-214-0310
+Excess Emissions and Emergency Provision: Planned Startup and Shutdown
+
+(1) This rule applies to any source where startup or shutdown of a production process or system may result in excess emissions, and
+
+(a) That is a major source; or
+
+(b) That is in a non-attainment or maintenance area for the regulated pollutant which may constitute excess emissions; or
+
+(c) From which DEQ requires the application in section (2).
+
+(2) The owner or operator must obtain prior DEQ authorization of startup and shutdown procedures. The owner or operator must submit to DEQ a written application for approval of new procedures or modifications to existing procedures. The application must be submitted in time for DEQ to receive it at least 72 hours before the first occurrence of a startup or shutdown event to which the procedures apply. The application must:
+
+(a) Explain why the excess emissions during startup and shutdown cannot be avoided;
+
+(b) Identify the specific production process or system that will cause the excess emissions;
+
+(c) Identify the nature of the air contaminants likely to be emitted and estimate the amount and duration of the excess emissions; and
+
+(d) Identify specific procedures to be followed that will minimize excess emissions at all times during startup and shutdown.
+
+(3) DEQ will approve the procedures if it determines that they are consistent with good pollution control practices, will minimize emissions during such period to the extent practicable, and that no adverse health impact on the public will occur. The owner or operator must record all excess emissions in the excess emissions log, as required in OAR 340-214-0340(3). Approval of the procedures does not shield the owner or operator from an enforcement action, but DEQ will consider whether the procedures were followed in determining whether an enforcement action is appropriate.
+
+(4) Once DEQ approves startup and shutdown procedures, the owner or operator does not have to notify DEQ of a planned startup or shutdown event unless it results in excess emissions.
+
+(5) When notice is required by section (4), it must be made in accordance with OAR 340-214-0330(1)(a).
+
+(6) DEQ may revoke or require modifications to previously approved procedures at any time by written notification to the owner or operator.
+
+(7) No startups or shutdowns that may result in excess emissions associated with the approved procedures in section (3) are allowed during any period in which an Air Pollution Alert, Air Pollution Warning, or Air Pollution Emergency has been declared, or during an announced yellow or red woodstove curtailment period in areas designated by DEQ as PM2.5 or PM10 nonattainment areas.
+
+(8) The owner or operator is subject to the requirements under All Other Excess Emissions in OAR 340-214-0330 if the owner or operator fails to obtain DEQ approval of start-up and shutdown procedures in accordance with section (2).
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020
+Statutes/Other Implemented: ORS 468A.025
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1410
+DEQ 19-1996, f. & cert. ef. 9-24-96
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0360
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 42-1990, f. 12-13-90, cert. ef. 1-2-91
+
+340-214-0320
+Excess Emissions and Emergency Provision: Scheduled Maintenance
+
+(1) If the owner or operator anticipates that scheduled maintenance of air contaminant sources or air pollution control devices may result in excess emissions, the owner or operator must obtain prior DEQ authorization of procedures that will be used. The owner or operator must submit a written application for approval of new procedures or modifications to existing procedures. The application must be submitted in time for DEQ to receive it at least 72 hours before the first occurrence of a maintenance event to which the procedures apply. The application must:
+
+(a) Explain the need for maintenance, including but not limited to:
+
+(A) Why the maintenance activity is necessary;
+
+(B) Why it would be impractical to shut down the source operation during the maintenance activity;
+
+(C) If applicable, why air pollution control devices must be by-passed or operated at reduced efficiency during the maintenance activity; and
+
+(D) Why the excess emissions could not be avoided through better scheduling for maintenance or through better operation and maintenance practices.
+
+(b) Identify the specific production or emission control device or system to be maintained;
+
+(c) Identify the nature of the air contaminants likely to be emitted during the maintenance period and the estimated amount and duration of the excess emissions, including measures such as the use of overtime labor and contract services and equipment, that will be taken to minimize the length of the maintenance period;
+
+(d) Identify specific procedures to be followed that will minimize excess emissions at all times during the scheduled maintenance.
+
+(2) DEQ will approve the procedures if it determines that they are consistent with good pollution control practices, will minimize emissions during such period to the extent practicable, and that no adverse health impact on the public will occur. The owner or operator must record all excess emissions in the excess emissions log, as required in OAR 340-214-0340(3). Approval of the above procedures does not shield the owner or operator from an enforcement action, but DEQ will consider whether the procedures were followed in determining whether an enforcement action is appropriate.
+
+(3) Once DEQ approves the maintenance procedures the owner or operator does not have to notify DEQ of a scheduled maintenance event unless it results in excess emissions.
+
+(4) When required by section (3), notification must be made in accordance with OAR 340-214-0330(1)(a).
+
+(5) DEQ may revoke or require modifications to previously approved procedures at any time by written notification to the owner or operator.
+
+(6) No scheduled maintenance associated with the approved procedures in section (2), that is likely to result in excess emissions, may occur during any period in which an Air Pollution Alert, Air Pollution Warning, or Air Pollution Emergency has been declared, or during an announced yellow or red woodstove curtailment period in areas designated by DEQ as PM2.5 or PM10 nonattainment areas.
+
+(7) The owner or operator is subject to the requirements under All Other Excess Emissions in OAR 340-214-0330 if the owner or operator fails to obtain DEQ approval of maintenance procedures in accordance with section (1).
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040 & 468A.310
+Statutes/Other Implemented: ORS 468A.025, 468A.040 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1420
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0365
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 42-1990, f. 12-13-90, cert. ef. 1-2-91
+
+340-214-0330
+Excess Emissions and Emergency Provision: All Other Excess Emissions
+
+(1) This rule applies to all excess emissions not addressed in OAR 340-214-0310, 340-214-0320, and 340-214-0360.
+
+(a) The owner or operator of a large source, as defined by OAR 340-214-0010, must immediately notify DEQ of the first onset per calendar day of any excess emissions event, unless otherwise specified by a permit condition.
+
+(b) The owner or operator of a small source, as defined by OAR 340-214-0010, need not immediately notify DEQ of excess emissions events unless otherwise required by a permit condition, written notice by DEQ, or if the excess emission is of a nature that could endanger public health.
+
+(c) Additional reporting and recordkeeping requirements are specified in OAR 340-214-0340.
+
+(2) During any period of excess emissions, the owner or operator of the source must immediately reduce emissions to the greatest extent practicable or cease operation of the equipment or facility until the condition causing the excess emissions has been corrected or brought under control. The owner or operator must cease operation of the equipment or facility within 8 hours of the beginning of the period of excess emissions unless:
+
+(a) Ceasing operation could result in physical damage to the equipment or facility;
+
+(b) Ceasing operation could cause injury to employees; or
+
+(c) Emissions associated with shutdown and the subsequent startup will exceed those emissions resulting from continued operation.
+
+(3) An owner or operator may request continued operations under the conditions in section (2) by submitting to DEQ a written request to continue operation along with the following information within 8 hours of the beginning of the period of excess emissions:
+
+(a) A description or plan of how the owner or operator will minimize the excess emissions to the greatest extent practicable;
+
+(b) A plan and timeline for returning the equipment or facility back to the applicable compliant emission limits as soon as possible; and either:
+
+(A) Information verifying that reducing or ceasing operation could result in physical damage to the equipment or facility or injury to employees; or
+
+(B) Calculations of emissions associated with shutdown and the subsequent startup and emissions resulting from continued operation.
+
+(4)(a) If DEQ disapproves the request to continue operation, the owner or operator must cease operation of the equipment or facility within one hour of receiving DEQ’s written disapproval (e.g., email or telephone conversation with email backup), until the condition causing the excess emissions has been corrected or brought under control.
+
+(b) If DEQ approves the request to continue operation, the owner or operator must follow the approved plans and timeline to minimize excess emissions and return the equipment or facility back to the applicable compliant emission limits as required in DEQ’s written approval (e.g., email or telephone conversation with email backup).
+
+(c) The owner or operator must report excess emissions under OAR 340-214-0340 within 5 days of the date of the event.
+
+(5) Notwithstanding section (2), at any time during the period of excess emissions, DEQ may require the owner or operator to cease operation of the equipment or facility.
+
+[NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.]
+
+Statutory/Other Authority: ORS 468.020, 468A.025, 468A.040 & 468A.310
+Statutes/Other Implemented: ORS 468A.025, 468A.040 & 468A.310
+History:
+DEQ 19-2022, amend filed 11/18/2022, effective 03/01/2023
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1430
+DEQ 19-1996, f. & cert. ef. 9-24-96
+DEQ 24-1994, f. & cert. ef. 10-28-94
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0370
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 42-1990, f. 12-13-90, cert. ef. 1-2-91
+
+340-214-0340
+Excess Emissions and Emergency Provision: Reporting Requirements
+
+(1) For any excess emissions event at a source with an Oregon Title V Operating Permit and for any other source as required by permit, the owner or operator must submit a written report of excess emissions for each calendar day of the event. The report must be submitted within 15 days of the date of the event and include the following:
+
+(a) The date and time of the beginning of the excess emissions event and the duration or best estimate of the time until return to normal operation;
+
+(b) The date and time the owner or operator notified DEQ of the event;
+
+(c) The equipment involved;
+
+(d) Whether the event occurred during planned startup, planned shutdown, scheduled maintenance, or as a result of a breakdown, malfunction, or emergency;
+
+(e) Steps taken to mitigate emissions and corrective actions taken, including whether the approved procedures for a planned startup, shutdown, or maintenance activity were followed;
+
+(f) The magnitude and duration of each occurrence of excess emissions during the course of an event and the increase over normal rates or concentrations as determined by continuous monitoring or a best estimate, supported by operating data and calculations;
+
+(g) The final resolution of the cause of the excess emissions; and
+
+(h) Where applicable, evidence supporting any claim that emissions in excess of technology-based limits were due to an emergency pursuant to OAR 340-214-0360.
+
+(2) Based on the severity of event, DEQ may specify a shorter time period for report submittal.
+
+(3) All source owners or operators must keep an excess emissions log of all planned and unplanned excess emissions. The log must include all pertinent information as required in section (1) and be kept by the owner or operator for five calendar years.
+
+(4) At each annual reporting period specified in a permit, or sooner if DEQ requires, the owner or operator must submit:
+
+(a) A copy of the excess emissions log entries for the reporting period; unless previously submitted in accordance with section (1); and
+
+(b) Where applicable, current procedures to minimize emissions during startup, shutdown, or maintenance as outlined in OAR 340-214-0310 and 340-214-0320. The owner or operator must specify in writing whether these procedures are new, modified, or have already been approved by DEQ.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020, 468A.050 & 468A.310
+Statutes/Other Implemented: ORS 468A.025, 468A.050 & 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1440
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0375
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 42-1990, f. 12-13-90, cert. ef. 1-2-91
+
+340-214-0350
+Excess Emissions and Emergency Provision: Enforcement Action Criteria
+
+In determining whether to take enforcement action for excess emissions, DEQ considers, based upon information submitted by the owner or operator, the following:
+
+(1) Whether the owner or operator met the notification, recordkeeping and reporting requirements of OAR 340-214-0330 and 340-214-0340;
+
+(2) Whether during the period of the excess emissions event the owner or operator took all reasonable steps to minimize levels of emissions that exceeded the emission standards, or other permit requirements;
+
+(3) Whether the owner or operator took the appropriate remedial action;
+
+(4) Whether the event was due to the owner's or operator's negligent or intentional operation. For DEQ to find that an incident of excess emissions was not due to the owner's or operator's negligent or intentional operation, DEQ may ask the owner or operator to demonstrate that all of the following conditions were met:
+
+(a) The process or handling equipment and the air pollution control device were at all times maintained and operated in a manner consistent with good practice for minimizing emissions;
+
+(b) Repairs or corrections were made in an expeditious manner when the owner or operator knew or should have known that emission limits were being or were likely to be exceeded. "Expeditious manner" may include activities such as use of overtime labor or contract labor and equipment that would reduce the amount and duration of excess emissions; and
+
+(c) The event was not one in a recurring pattern of incidents that indicate inadequate design, operation, or maintenance;
+
+(5) Whether the owner or operator was following procedures approved in OAR 340-214-0310 or 340-214-0320 at the time of the excess emissions;
+
+(6) Whether any federal New Source Performance Standard or National Emission Standard for Hazardous Air Pollutants applies and whether the excess emission event caused a violation of the federal standard; and
+
+(7) Whether the excess emissions event was due to an emergency.
+
+NOTE: This rule is included in the State of Oregon Clean Air Act Implementation Plan that EQC adopted under OAR 340-200-0040.
+
+Statutory/Other Authority: ORS 468.020 & 468A.025
+Statutes/Other Implemented: ORS 468 & 468A.025
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1450
+DEQ 12-1993, f. & cert. ef. 9-24-93, Renumbered from 340-020-0380
+DEQ 4-1993, f. & cert. ef. 3-10-93
+DEQ 42-1990, f. 12-13-90, cert. ef. 1-2-91
+
+340-214-0360
+Excess Emissions and Emergency Provision: Emergency as an Affirmative Defense for Title V Permitted Sources
+
+(1) An emergency constitutes an affirmative defense to penalty actions due to noncompliance with technology-based emission limits in an Oregon Title V Operating Permit if the owner or operator notifies DEQ immediately of the emergency condition and provides and demonstrates through properly signed, contemporaneous operating logs, excess emission logs, or other relevant evidence that:
+
+(a) An emergency occurred and caused the excess emissions;
+
+(b) The cause of the emergency;
+
+(c) The facility was at the time being properly operated;
+
+(d) During the occurrence of the emergency, the owner or operator took all reasonable steps to minimize levels of excess emissions; and
+
+(e) The notification to DEQ contained a description of the emergency, any steps taken to mitigate emissions, and corrective actions taken.
+
+(2) The person seeking to establish the occurrence of an emergency has the burden of proof by a preponderance of the evidence.
+
+(3) This provision is in addition to any emergency or any other excess emissions provision contained in any applicable requirement.
+
+Statutory/Other Authority: ORS 468.020 & 468A.310
+Statutes/Other Implemented: ORS 468A.310
+History:
+DEQ 7-2015, f. & cert. ef. 4-16-15
+DEQ 8-2007, f. & cert. ef. 11-8-07
+DEQ 6-2001, f. 6-18-01, cert. ef. 7-1-01
+DEQ 14-1999, f. & cert. ef. 10-14-99, Renumbered from 340-028-1460
+DEQ 19-1993, f. & cert. ef. 11-4-93
+DEQ 12-1993, f. & cert. ef. 9-24-93
